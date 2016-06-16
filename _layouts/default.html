@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body>
+
+    {% include header.html %}
+
+    <aside class="page-aside">
+        {% for post in site.posts %}
+        <li class="side-item">
+            <a href="{{ post.url | prepend: site.baseurl }}">
+                <i class="fa fa-shopping-cart"></i> <span>{{ post.title }}</span>
+            </a>
+        </li>
+        {% endfor %}
+    </aside>
+
+    <div class="page-content">
+        <div class="wrapper">
+            {{ content }}
+        </div>
+    </div>
+
+    {% include footer.html %}
+
+</body>
+
+</html>

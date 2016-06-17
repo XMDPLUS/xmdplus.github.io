@@ -1,0 +1,34 @@
+<!-- Left side column. contains the logo and sidebar -->
+<aside class="main-sidebar">
+    <!-- sidebar: style can be found in sidebar.less -->
+    <section class="sidebar">
+        <form action="/" method="get" class="sidebar-form">
+            <div class="input-group">
+                <input type="text" id="search-box" name="query" class="form-control" placeholder="Search..." tabindex="0">
+                <span class="input-group-btn">
+                    <button type="submit" name="search" id="search-btn" class="btn btn-flat"><i class="fa fa-search"></i>
+                    </button>
+                </span>
+            </div>
+        </form>
+        <!-- /.search form -->
+        <!-- sidebar menu: : style can be found in sidebar.less -->
+        <ul class="sidebar-menu">
+            <li class="header">도움말 리스트</li>
+            {% for cat in site.category %}
+            <li class="treeview">
+                <a href="#">
+                    <i class="fa fa-dashboard"></i> <span>{{ cat }}</span> <i class="fa fa-angle-left pull-right"></i>
+                </a>
+                <ul class="treeview-menu">
+                    {% assign posts_in_cat = site.categories[cat] %}
+                    {% for post in posts_in_cat %}
+                    {% if post.title %}<li><a href="{{ post.url | prepend: site.baseurl }}"><i class="fa fa-circle-o"></i> {{ post.title }}</a></li>{% endif %}
+                    {% endfor %}
+                </ul>
+            </li>
+            {% endfor %}
+        </ul>
+    </section>
+    <!-- /.sidebar -->
+</aside>

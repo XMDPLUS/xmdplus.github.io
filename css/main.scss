@@ -26,10 +26,7 @@ $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
-$header-min-height: 50px;
-$aside-width: 200px;
-//$content-width:    800px;
-$content-width:    100%;
+$content-margin:    20px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
@@ -53,7 +50,8 @@ $on-laptop:        800px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "base",
-        "layout",
-        "syntax-highlighting"
+        // "base",
+        // "layout",
+        // "syntax-highlighting"
+        "xmd"
 ;

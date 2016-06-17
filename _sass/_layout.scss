@@ -182,6 +182,12 @@
         padding: 0;
         box-sizing: border-box;
 
+        &:hover {
+            border-left-color: #3c8dbc;
+            border-left-width: 3px;
+            border-left-style: solid;
+        }
+        
         a {
             padding: 12px 5px 12px 15px;
             display: block;
@@ -190,8 +196,6 @@
             &:hover {
                 color: #fff;
                 background: #1e282c;
-                border-left-color: #3c8dbc;
-                border-left-width: 3px;
                 text-decoration: none;
             }
 

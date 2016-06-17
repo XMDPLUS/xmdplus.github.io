@@ -3,16 +3,27 @@
         var searchResults = document.getElementById('search-results');
 
         if (results.size > 0) { // Are there any results?
-            var appendString = '';
+            var appendString = '<li class="time-label"><span class="bg-green">검색어 [' + searchTerm + ']에 대한 검색 결과는 [' + results.size + ']건 입니다.</span></li>';
 
             results.forEach(function(item) {
-                appendString += '<li><a href="' + item.url + '"><h3>' + item.title + '</h3></a>';
-                appendString += '<p>' + item.content.substring(0, 150) + '...</p></li>';
+                console.log(item)
+                appendString += '<li>';
+                appendString += '<i class="fa fa-envelope bg-blue"></i>';
+                appendString += '<div class="timeline-item">';
+                appendString += '<h3 class="timeline-header"><a href="' + item.url + '">' + item.title + '</a></h3>';
+                appendString += '<div class="timeline-body">' + item.content.substring(0, 280) + '...<div>';
+                appendString += '<div class="timeline-footer">&nbsp;';
+                appendString += '<a class="btn btn-primary btn-xs pull-right" href="' + item.url + '">Read more</a>';
+                appendString += '</div>';
+                appendString += '</div>';
+                appendString += '</li>';
             });
-
+            appendString += '<li>';
+            appendString += '<i class="fa fa-clock-o bg-gray"></i>';
+            appendString += '</li>';
             searchResults.innerHTML = appendString;
         } else {
-            searchResults.innerHTML = '<li>No results found</li>';
+            searchResults.innerHTML = '<li class="time-label"><span class="bg-red">검색어 [' + searchTerm + ']에 대한 검색 결과가 없습니다.</span></li>';
         }
     }
 
@@ -34,7 +45,7 @@
 
         for(var key in window.store) {
             for(var item in window.store[key]) {
-                if(window.store[key][item].indexOf(searchTerm) !== -1) {
+                if(window.store[key][item].replace(/ /gi, '').indexOf(searchTerm) !== -1) {
                     results.add(window.store[key]);
                 }
             }

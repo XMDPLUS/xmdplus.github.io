@@ -21,7 +21,7 @@
                     <i class="fa fa-question-circle"></i> <span>{{ cat }}</span> <i class="fa fa-angle-left pull-right"></i>
                 </a>
                 <ul class="treeview-menu">
-                    {% assign posts_in_cat = site.categories[cat] %}
+                    {% assign posts_in_cat = site.categories[cat] | sort: weight %}
                     {% for post in posts_in_cat %}
                     {% if post.title %}<li><a href="{{ post.url | prepend: site.baseurl }}"><i class="fa fa-circle-o"></i> {{ post.title }}</a></li>{% endif %}
                     {% endfor %}

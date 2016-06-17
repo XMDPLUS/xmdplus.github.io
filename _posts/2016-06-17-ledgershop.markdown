@@ -5,6 +5,7 @@ title: "매장 입고/반품 등록"
 permalink: "ledger_shop.html"
 author: "bluesolar"
 date: "2016-06-17 10:18:28 +0900"
+weight: 10
 ---
 ### <i class="fa fa-tag" markdown="1"></i> 항목 설명
 * 창고 : 상품을 출고 또는 반품받을 창고를 선택합니다. (창고를 관리하지 않는 경우 기본창고로 설정)

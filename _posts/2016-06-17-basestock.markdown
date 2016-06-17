@@ -5,6 +5,7 @@ title: "기초 재고 관리"
 author: "bluesolar"
 permalink: "base_stock.html"
 date: "2016-06-17 11:34:14 +0900"
+weight: 10
 ---
 ### <i class="fa fa-tag" markdown="1"></i> 항목 설명
 * 매장선택. 기초재고를 등록할 매장을 선택합니다.

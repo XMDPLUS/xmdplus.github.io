@@ -5,6 +5,7 @@ title: "매장 입고/반품 현황"
 permalink: "ledger_shop_list.html"
 author: "bluesolar"
 date: "2016-06-17 17:35:19 +0900"
+weight: 20
 ---
 ![매장 입고/반품 현황]({{ site.url }}/images/ledger_shop_list/ledger_shop_list.png)
 *[매장 입고/반품 현황]*{: style="color: #666; font-weight: bold; float: right;"}

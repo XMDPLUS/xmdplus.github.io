@@ -18,7 +18,7 @@ weight: 10
 
 ## <a name="not_use_devices"></a><i class="fa fa-gear" markdown="1"></i> 장비 미사용시 상품 판매 및 결제
 
-### <i class="fa fa-search" markdown="1"></i> 1. 상품 조회
+### <a name="nodevice_search"></a><i class="fa fa-search" markdown="1"></i> 1. 상품 조회
 
 #### <i class="fa fa-search" markdown="1"></i> 상품검색방법 – 바코드 스캔
 ![상품검색방법 – 바코드 스캔]({{ site.url }}/images/pos_sales/nodevice/pos_1.png)
@@ -55,7 +55,7 @@ weight: 10
 ![카드 결제]({{ site.url }}/images/pos_sales/nodevice/pos_6.png)
 
 1. 상품을 검색한 상태에서 카드결제 버튼을 클릭합니다.
-    * 상품 검색방법은 상품 검색설명 참조.
+    * 상품 검색방법은 [상품 검색](#nodevice_search) 설명 참조.
 2. 임의등록 버튼을 클릭합니다.
     * 카드번호와 승인번호 입력은 옵션사항입니다.
 
@@ -66,7 +66,7 @@ weight: 10
 ![현금 결제]({{ site.url }}/images/pos_sales/nodevice/pos_9.png)
 
 1. 상품을 검색한 상태에서 현금결제 버튼을 클릭합니다.  
-    * 상품 검색방법은 상품 검색설명 참조.
+    * 상품 검색방법은 [상품 검색](#nodevice_search) 설명 참조.
 2. 결제완료 버튼을 클릭합니다.
 
 ------------------------
@@ -79,7 +79,7 @@ weight: 10
 ![복합 결제]({{ site.url }}/images/pos_sales/nodevice/pos_16.png)
 
 1. 상품을 검색한 상태에서 복합결제 버튼을 클릭합니다.  
-    * 상품 검색방법은 상품 검색설명 참조.
+    * 상품 검색방법은 [상품 검색](#nodevice_search) 설명 참조.
     * 화면 예시)
         * 10,000원 상품을 카드 8,000원, 현금 2,000원으로 결제하는 예시화면
 2. 결제금액을 입력합니다.
@@ -96,7 +96,7 @@ weight: 10
 
 ## <a name="use_devices"></a><i class="fa fa-gear" markdown="1"></i> 장비 사용시 상품 판매 및 결제
 
-### <i class="fa fa-search" markdown="1"></i> 1. 상품 조회
+### <a name="device_search"></a><i class="fa fa-search" markdown="1"></i> 1. 상품 조회
 
 #### <i class="fa fa-search" markdown="1"></i> 상품검색방법 – 바코드 스캔
 ![상품검색방법 – 바코드 스캔]({{ site.url }}/images/pos_sales/device/pos_1.png)
@@ -133,7 +133,7 @@ weight: 10
 ![카드 결제]({{ site.url }}/images/pos_sales/device/pos_7.png)
 
 1. 상품을 검색한 상태에서 카드결제 버튼을 클릭합니다.
-    * 상품 검색방법은 상품 검색설명 참조.
+    * 상품 검색방법은 [상품 검색](#device_search) 설명 참조.
 2. 할부기간을 지정합니다.
 3. 카드리딩 버튼을 클릭하면 카드를 읽히라는 메시지가 로딩됩니다.
 4. 로딩상태에서 카드를 단말기에 삽입하면 자동결제됩니다. 메시지 창에서 취소할 경우 ESC를 입력하세요.
@@ -145,7 +145,7 @@ weight: 10
 ![현금 결제]({{ site.url }}/images/pos_sales/device/pos_10.png)
 
 1. 상품을 검색한 상태에서 현금결제 버튼을 클릭합니다.  
-    * 상품 검색방법은 상품 검색설명 참조.
+    * 상품 검색방법은 [상품 검색](#device_search) 설명 참조.
 2. 받은 금액을 입력합니다.
 3. 입력요청 버튼을 클릭하면 카드를 읽히라는 메시지가 로딩됩니다.
 4. 로딩상태에서 단말기에 전화번호/주민번호/카드번호를 입력하면 자동결제 됩니다. 메시지 창에서 취소할 경우 ESC를 입력하세요.
@@ -160,7 +160,7 @@ weight: 10
 ![복합 결제]({{ site.url }}/images/pos_sales/device/pos_17.png)
 
 1. 상품을 검색한 상태에서 복합결제 버튼을 클릭합니다.  
-    * 상품 검색방법은 상품 검색설명 참조.
+    * 상품 검색방법은 [상품 검색](#device_search) 설명 참조.
     * 화면 예시)
         * 10,000원 상품을 카드 8,000원, 현금 2,000원으로 결제하는 예시화면
 2. 결제금액을 입력합니다.

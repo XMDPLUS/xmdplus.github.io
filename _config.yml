@@ -12,8 +12,8 @@ title: 도움말
 email: dev@xmd.co.kr
 description: > # XMDPLUS 사용자 메뉴얼.
 baseurl: "" # the subpath of your site, e.g. /blog
-# url: "http://xmdplus.github.io" # the base hostname & protocol for your site
-url: "http://localhost:3000" # the base hostname & protocol for your site
+url: "http://xmdplus.github.io" # the base hostname & protocol for your site
+# url: "http://localhost:3000" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 

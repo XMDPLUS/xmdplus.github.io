@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="home">
-    <h2>XMD PLUS 서비스 사용 도움말입니다.</h2>
+    <h2>{{site.index_content[site.active_lang]}}</h2>
     <ul id="search-results" class="timeline"></ul>
 </div>
 
@@ -21,4 +21,8 @@ layout: default
   };
 </script>
 
+<script>
+    window.activeLang = "{% if site.active_lang == site.default_lang %}{% else %}{{site.active_lang}}{% endif %}";
+</script>
+<script type="text/javascript" src="/dist/js/i18n/{{site.active_lang}}.js"></script>
 <script src="{{ "/dist/js/search.js" | prepend: site.baseurl }}"></script>

@@ -3,17 +3,16 @@
         var searchResults = document.getElementById('search-results');
 
         if (results.size > 0) { // Are there any results?
-            var appendString = '<li class="time-label"><span class="bg-green">검색어 [' + searchTerm + ']에 대한 검색 결과는 [' + results.size + ']건 입니다.</span></li>';
+            var appendString = '<li class="time-label"><span class="bg-green">' + messages.has_results.replace('{TERM}', searchTerm).replace('{CNT}', results.size) + '</span></li>';
 
             results.forEach(function(item) {
-                console.log(item)
                 appendString += '<li>';
                 appendString += '<i class="fa fa-envelope bg-blue"></i>';
                 appendString += '<div class="timeline-item">';
-                appendString += '<h3 class="timeline-header"><a href="' + item.url + '">' + item.title + '</a></h3>';
+                appendString += '<h3 class="timeline-header"><a href="' + (window.activeLang != "" ? "/" + window.activeLang : "") + item.url + '">' + item.title + '</a></h3>';
                 appendString += '<div class="timeline-body">' + item.content.substring(0, 280) + '...<div>';
                 appendString += '<div class="timeline-footer">&nbsp;';
-                appendString += '<a class="btn btn-primary btn-xs pull-right" href="' + item.url + '">Read more</a>';
+                appendString += '<a class="btn btn-primary btn-xs pull-right" href="' + (window.activeLang != "" ? "/" + window.activeLang : "") + item.url + '">Read more</a>';
                 appendString += '</div>';
                 appendString += '</div>';
                 appendString += '</li>';
@@ -23,7 +22,7 @@
             appendString += '</li>';
             searchResults.innerHTML = appendString;
         } else {
-            searchResults.innerHTML = '<li class="time-label"><span class="bg-red">검색어 [' + searchTerm + ']에 대한 검색 결과가 없습니다.</span></li>';
+            searchResults.innerHTML = '<li class="time-label"><span class="bg-red">' + messages.no_result.replace('{TERM}', searchTerm) + '</span></li>';
         }
     }
 

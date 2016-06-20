@@ -5,7 +5,7 @@
         <!-- mini logo for sidebar mini 50x50 pixels -->
         <span class="logo-mini"><b>X</b>+</span>
         <!-- logo for regular state and mobile devices -->
-        <span class="logo-lg">{{site.logo-prefix}} <b>{{site.logo-suffix}}</b> {{ site.title }}</span>
+        <span class="logo-lg">{{site.logo-prefix}} <b>{{site.logo-suffix}}</b> {{ site.title[site.active_lang] }}</span>
     </a>
 
     <!-- Header Navbar: style can be found in header.less -->
@@ -17,8 +17,14 @@
         <!-- Navbar Right Menu -->
         <div class="navbar-custom-menu">
             <ul class="nav navbar-nav">
+                {% for tongue in site.languages %}
+                <li class="dropdown">
+                    <a href="{% if tongue == site.default_lang %} {{site.baseurl}}{{page.url}} {% else %} {{site.baseurl}}/{{ tongue }}{{page.url}} {% endif %}">
+                        <img src="{{"/dist/img/flags/[IMG_FLAG].png" | replace: '[IMG_FLAG]',tongue | prepend: site.baseurl}}" style="height:20px; {% if tongue == site.active_lang %}border:1px solid white;{% endif %}"/>
+                    </a>
+                </li>
+                {% endfor %}
             </ul>
         </div>
-
     </nav>
 </header>

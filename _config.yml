@@ -16,8 +16,8 @@ description:
     ko: > # XMDPLUS 도움말.
     ja: > # XMDPLUS ヘルプ。
 baseurl: "" # the subpath of your site, e.g. /blog
-# url: "http://xmdplus.github.io" # the base hostname & protocol for your site
-url: "http://localhost:3000" # the base hostname & protocol for your site
+url: "http://xmdplus.github.io" # the base hostname & protocol for your site
+# url: "http://localhost:3000" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown

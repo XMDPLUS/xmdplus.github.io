@@ -5,8 +5,8 @@
     <description>{&quot;ko&quot;=&gt;&quot;&quot;, &quot;ja&quot;=&gt;&quot;&quot;}</description>
     <link>http://xmdplus.github.io/</link>
     <atom:link href="http://xmdplus.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 21 Jun 2016 11:20:55 +0900</pubDate>
-    <lastBuildDate>Tue, 21 Jun 2016 11:20:55 +0900</lastBuildDate>
+    <pubDate>Tue, 21 Jun 2016 13:38:24 +0900</pubDate>
+    <lastBuildDate>Tue, 21 Jun 2016 13:38:24 +0900</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -207,7 +207,7 @@
 &lt;/ol&gt;
 
 &lt;h4 id=&quot;i-classfa-fa-barcode-markdown1i---&quot;&gt;&lt;i class=&quot;fa fa-barcode&quot;&gt;&lt;/i&gt; 領収書照会方法 – 領収書バーコードスキャン&lt;/h4&gt;
-&lt;p&gt;![&lt;a href=&quot;http://xmdplus.github.io/images/pos_receipt/pos_19.png&quot;&gt;領収書照会方法 - 領収書バーコードスキャン&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_receipt/pos_19.png&quot; alt=&quot;領収書照会方法 - 領収書バーコードスキャン&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;領収書下部のバーコードをスキャンすると、領収書の購入履歴をすぐにロードことができます。&lt;/li&gt;
@@ -404,18 +404,23 @@
 &lt;h3 id=&quot;i-classfa-fa-pencil-square-o-markdown1i--2&quot;&gt;&lt;i class=&quot;fa fa-pencil-square-o&quot;&gt;&lt;/i&gt; 品コードの修正/詳細を見る #2&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_6.png&quot; alt=&quot;品コードの修正/詳細を見る #2&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;1.登録された商品コードは修正することはできません。照会のみ可能です。
-2. 登録されたカラー/サイズの修正にも制限があります。
-    1. サイズパターンの修正はできません。
-    2. カラーを追加したり、削除することは可能です。
-    3. カラー/サイズの組み合わせのチェックをしたり、チェックを外して使用するかどうかを決定することができます。
-    4. 上記の2,3番で既に在庫入庫/販売が行われたカラー/サイズは削除/使用中止への変更ができません。
-3. 登録された画像を左/右ボタンで確認できます。また[画像管理]ボタンをクリックすると、画像の照会/追加/削除ポップアップが表示されます。&lt;br /&gt;
-詳細は、&lt;a href=&quot;#register_image&quot;&gt;画像の登録項目&lt;/a&gt;にあります。
-4. 販売価はここで確認のみ可能です。販売価の修正は、5番の販売価変更タブや商品コード照会画面の販売価変更機能を利用します。&lt;br /&gt;
-詳細は、&lt;a href=&quot;＃change_price&quot;&gt;販売変更項目&lt;/a&gt;にあります。
-5. クリックすると、販売価を変更することができる画面が表示されます。販売価変更項目で詳しく説明します。
-6. クリックすると、販売価履歴を照会できる画面が表示されます。&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;登録された商品コードは修正することはできません。照会のみ可能です。&lt;/li&gt;
+  &lt;li&gt;登録されたカラー/サイズの修正にも制限があります。
+    &lt;ol&gt;
+      &lt;li&gt;サイズパターンの修正はできません。&lt;/li&gt;
+      &lt;li&gt;カラーを追加したり、削除することは可能です。&lt;/li&gt;
+      &lt;li&gt;カラー/サイズの組み合わせのチェックをしたり、チェックを外して使用するかどうかを決定することができます。&lt;/li&gt;
+      &lt;li&gt;上記の2,3番で既に在庫入庫/販売が行われたカラー/サイズは削除/使用中止への変更ができません。&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;登録された画像を左/右ボタンで確認できます。また[画像管理]ボタンをクリックすると、画像の照会/追加/削除ポップアップが表示されます。&lt;br /&gt;
+詳細は、&lt;a href=&quot;#register_image&quot;&gt;画像の登録項目&lt;/a&gt;にあります。&lt;/li&gt;
+  &lt;li&gt;販売価はここで確認のみ可能です。販売価の修正は、5番の販売価変更タブや商品コード照会画面の販売価変更機能を利用します。&lt;br /&gt;
+詳細は、&lt;a href=&quot;＃change_price&quot;&gt;販売変更項目&lt;/a&gt;にあります。&lt;/li&gt;
+  &lt;li&gt;クリックすると、販売価を変更することができる画面が表示されます。販売価変更項目で詳しく説明します。&lt;/li&gt;
+  &lt;li&gt;クリックすると、販売価履歴を照会できる画面が表示されます。&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;hr /&gt;
 
@@ -730,7 +735,7 @@
       &lt;li&gt;10,000ウォンの決済金額中8,000ウォン入力&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;クレジットカードをクリックします。신용카드를 클릭합니다.&lt;/li&gt;
+  &lt;li&gt;クレジットカードをクリックします。&lt;/li&gt;
   &lt;li&gt;分割期間を指定します。&lt;/li&gt;
   &lt;li&gt;カードリーディングボタンをクリックすると、カードを読み込んでくださいというメッセージが表示されます。&lt;/li&gt;
   &lt;li&gt;ロード状態で端末に電話番号/住民登録番号/カード番号を入力したら自動決済されます。メッセージウィンドウからキャンセルしたい場合はESCを入力してください。&lt;/li&gt;
@@ -816,7 +821,7 @@
 
 &lt;ol&gt;
   &lt;li&gt;基礎在庫を削除したい店舗を選択します。店舗を選択すると、その店の基礎在庫が自動でインポートされます。&lt;/li&gt;
-  &lt;li&gt;削除したい商品をチェックします。.&lt;/li&gt;
+  &lt;li&gt;削除したい商品をチェックします。&lt;/li&gt;
   &lt;li&gt;[削除]ボタンをクリックして、最終的にデータを削除します。&lt;/li&gt;
 &lt;/ol&gt;
 </description>

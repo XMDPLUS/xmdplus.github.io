@@ -6,4 +6,5 @@ jekyll build
 git add --all
 git commit -m "`date`"
 git push origin xphelp
-git subtree push --prefix _site/ origin master
+git checkout master
+git push --prefix _site/ origin master

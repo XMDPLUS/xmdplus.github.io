@@ -6,5 +6,9 @@ jekyll build
 git add --all
 git commit -m "`date`"
 git push origin xphelp
+cp -R _site ..
 git checkout master
-git push --prefix _site/ origin master
+cp -R ../_site .
+git add --all
+git commit -m "`date`"
+git push origin master

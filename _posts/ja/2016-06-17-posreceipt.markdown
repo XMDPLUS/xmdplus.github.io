@@ -19,6 +19,6 @@ weight: 20
 1. 領収書をダブルクリックして領収書をロードします。
 
 #### <i class="fa fa-barcode" markdown="1"></i> 領収書照会方法 – 領収書バーコードスキャン
-![[領収書照会方法 - 領収書バーコードスキャン]({{ site.url }}/images/pos_receipt/pos_19.png)
+![領収書照会方法 - 領収書バーコードスキャン]({{ site.url }}/images/pos_receipt/pos_19.png)
 
 1. 領収書下部のバーコードをスキャンすると、領収書の購入履歴をすぐにロードことができます。

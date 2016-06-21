@@ -5,8 +5,8 @@
     <description>{&quot;ko&quot;=&gt;&quot;&quot;, &quot;ja&quot;=&gt;&quot;&quot;}</description>
     <link>http://xmdplus.github.io/</link>
     <atom:link href="http://xmdplus.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 21 Jun 2016 13:38:24 +0900</pubDate>
-    <lastBuildDate>Tue, 21 Jun 2016 13:38:24 +0900</lastBuildDate>
+    <pubDate>Tue, 21 Jun 2016 14:03:32 +0900</pubDate>
+    <lastBuildDate>Tue, 21 Jun 2016 14:03:32 +0900</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -417,7 +417,7 @@
   &lt;li&gt;登録された画像を左/右ボタンで確認できます。また[画像管理]ボタンをクリックすると、画像の照会/追加/削除ポップアップが表示されます。&lt;br /&gt;
 詳細は、&lt;a href=&quot;#register_image&quot;&gt;画像の登録項目&lt;/a&gt;にあります。&lt;/li&gt;
   &lt;li&gt;販売価はここで確認のみ可能です。販売価の修正は、5番の販売価変更タブや商品コード照会画面の販売価変更機能を利用します。&lt;br /&gt;
-詳細は、&lt;a href=&quot;＃change_price&quot;&gt;販売変更項目&lt;/a&gt;にあります。&lt;/li&gt;
+詳細は、&lt;a href=&quot;#change_price&quot;&gt;販売変更項目&lt;/a&gt;にあります。&lt;/li&gt;
   &lt;li&gt;クリックすると、販売価を変更することができる画面が表示されます。販売価変更項目で詳しく説明します。&lt;/li&gt;
   &lt;li&gt;クリックすると、販売価履歴を照会できる画面が表示されます。&lt;/li&gt;
 &lt;/ol&gt;

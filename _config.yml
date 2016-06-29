@@ -11,10 +11,12 @@ logo-suffix: PLUS
 title:
     ko: 도움말
     ja: ヘルプ
+    zh_CN: 指南
 email: dev@xmd.co.kr
 description:
     ko: > # XMDPLUS 도움말.
     ja: > # XMDPLUS ヘルプ。
+    zh_CN: > # XMDPLUS 指南。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://xmdplus.github.io" # the base hostname & protocol for your site
 # url: "http://localhost:3000" # the base hostname & protocol for your site
@@ -29,15 +31,17 @@ markdown: kramdown
 list_header:
     ko: 도움말 리스트
     ja: ヘルプリスト
+    zh_CN: 指南列表
 
 index_content:
     ko: XMD PLUS 서비스 사용 도움말입니다.
     ja: XMD PLUS サービス利用のヒントです。
+    zh_CN: 这份文件是XMD PLUS的用户指南。
 
 gems:
     - jekyll-polyglot
 
-languages: ["ko", "ja"]
+languages: ["ko", "ja", "zh_CN"]
 default_lang: "ko"
 exclude_from_localization: ["javascript", "images", "css", "bootstrap", "dist", "plugins", "_data"]
 parallel_localization: true
@@ -63,3 +67,13 @@ category:
         - 在庫管理
         # - 판매 분석
         - POS_ja
+    zh_CN:
+        # - 회원사 정보관리
+        # - 사용자 관리
+        # - 코드 관리
+        - 商品管理_zh
+        - 卖场管理
+        # - 고객 관리
+        - 库存管理
+        # - 판매 분석
+        - POS_zh

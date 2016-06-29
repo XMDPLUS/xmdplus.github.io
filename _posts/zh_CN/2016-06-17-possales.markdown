@@ -1,0 +1,178 @@
+---
+layout: post
+category: "POS_zh"
+title: "商品 销售/付款"
+permalink: "pos_sales.html"
+author: "hwsttl"
+date: "2016-06-17 16:55:50 +0900"
+weight: 10
+lang: "zh_CN"
+---
+
+### <i class="fa fa-gear" markdown="1"></i> 确认装备使用与否
+*※ 注意 : 按照现在卖场的VAN关联装备(磁卡读卡器, 电子签名板等)使用与否，选择看帮助内容。*{: style="color: red; font-size: 18px; font-weight: bold;"}
+
+* [装备未使用时](#not_use_devices)
+* [装备使用时](#use_devices)
+
+------------------------
+
+## <a name="not_use_devices"></a><i class="fa fa-gear" markdown="1"></i> 装备未使用时商品销售及付款
+
+### <a name="nodevice_search"></a><i class="fa fa-search" markdown="1"></i> 1. 查询商品
+
+#### <i class="fa fa-search" markdown="1"></i> 商品搜索方法 – 扫描条形码
+![商品搜索方法 – 扫描条形码]({{ site.url }}/images/pos_sales/nodevice/pos_1.png)
+
+1. 确认鼠标的光标，扫描商品的条形码。
+
+#### <i class="fa fa-search" markdown="1"></i> 商品搜索方法 - 商品搜索弹出窗口
+![商品搜索方法 - 商品搜索弹出窗口]({{ site.url }}/images/pos_sales/nodevice/pos_2.png)
+
+1. 打击放大镜，加载搜索商品的弹出窗口。
+2. 输入要搜索的商品名或代码。
+3. 打击[查询]按键。
+4. 双击有关商品。
+
+#### <i class="fa fa-search" markdown="1"></i> 商品搜索方法 – 简便搜索
+![商品搜索方法 – 简便搜索]({{ site.url }}/images/pos_sales/nodevice/pos_3.png)
+
+1. 打击[类目]按键，选择商品种类。
+2. 打击详细商品。
+
+*※ 使用简便搜索时，必要设定在管理者页面。*{: style="color: red; font-size: 18px; font-weight: bold;"} (参照[商品管理 – 商品群管理]的说明书。)
+
+#### <i class="fa fa-remove" markdown="1"></i> 选的商品删除方法
+![选的商品删除方法]({{ site.url }}/images/pos_sales/nodevice/pos_4.png)
+
+* 搜索商品的过程上，删除错选的商品时使用的。
+    1. 全体取消的机能用于取消页面上的全体商品。一般使用页面上内容的初始化。
+    2. ‘取消选择’用于取消特定行商品的输入。 (键盘的[Delete]按键也做同一的机能。)
+
+------------------------
+
+### <i class="fa fa-credit-card" markdown="1"></i> 2. 信用卡付款
+![信用卡付款]({{ site.url }}/images/pos_sales/nodevice/pos_5.png)
+![信用卡付款]({{ site.url }}/images/pos_sales/nodevice/pos_6.png)
+
+1. 搜索商品的状态上，打击[信用卡付款]按键。
+    * 商品搜索方法参照[商品搜索](#nodevice_search)说明。
+2. 打击[临时注册]按键。
+    * 输入信用卡号码和承认号码是选项事项。
+
+------------------------
+
+### <i class="fa fa-money" markdown="1"></i> 3. 现金付款
+![现金付款]({{ site.url }}/images/pos_sales/nodevice/pos_8.png)
+![现金付款]({{ site.url }}/images/pos_sales/nodevice/pos_9.png)
+
+1. 搜索商品的状态上，打击[现金付款]按键。
+    * 商品搜索方法参照[商品搜索](#nodevice_search)说明。
+2. 打击[付款结束]按键。
+
+------------------------
+
+### <i class="fa fa-plus-square" markdown="1"></i> 4. 复合付款
+![复合付款]({{ site.url }}/images/pos_sales/nodevice/pos_11.png)
+![复合付款]({{ site.url }}/images/pos_sales/nodevice/pos_12.png)
+![复合付款]({{ site.url }}/images/pos_sales/nodevice/pos_13.png)
+![复合付款]({{ site.url }}/images/pos_sales/nodevice/pos_15.png)
+![复合付款]({{ site.url }}/images/pos_sales/nodevice/pos_16.png)
+
+1. 搜索商品的状态上，打击[复合付款]按键。  
+    * 商品搜索方法参照[商品搜索](#nodevice_search)说明。
+    * 页面例子)
+        * 付款1,000元的商品的时候，用信用卡800元和现金200元。
+2. 输入付款金额。
+    * 付款金额1,000元中，输入800元。
+3. 打击信用卡。
+4. 打击临时注册。
+5. 输入付款金额。
+    * 付款金额1,000元中，输入200元。
+6. 打击[现金]按键。
+7. 打击[付款结束]按键。
+    * 结存‘0‘’，付款自动结束。
+
+------------------------
+
+## <a name="use_devices"></a><i class="fa fa-gear" markdown="1"></i> 使用装备时商品销售及付款
+
+### <a name="device_search"></a><i class="fa fa-search" markdown="1"></i> 1. 查询商品
+
+#### <i class="fa fa-search" markdown="1"></i> 商品查询方法 – 扫描条形码
+![商品查询方法 – 扫描条形码]({{ site.url }}/images/pos_sales/device/pos_1.png)
+
+1. 确认鼠标的光标，扫描商品的条形码。
+
+#### <i class="fa fa-search" markdown="1"></i> 商品查询方法 -商品搜索弹出窗口
+![商品查询方法 - 商品搜索弹出窗口]({{ site.url }}/images/pos_sales/device/pos_2.png)
+
+1. 打击放大镜，加载搜索商品的弹出窗口。
+2. 输入要搜索的商品名或代码。
+3. 打击[查询]按键。
+4. 双击有关商品。
+
+#### <i class="fa fa-search" markdown="1"></i> 商品搜索方法 – 简便搜索
+![商品搜索方法 – 简便搜索]({{ site.url }}/images/pos_sales/device/pos_3.png)
+
+1. 打击[类目]按键，选择商品种类。
+2. 打击详细商品。
+
+*※ 使用简便搜索时，必要设定在管理者页面。*{: style="color: red; font-size: 18px; font-weight: bold;"} (参照[商品管理 – 商品群管理]的说明书。)
+
+#### <i class="fa fa-remove" markdown="1"></i> 选的商品删除方法
+![选的商品删除方法]({{ site.url }}/images/pos_sales/device/pos_4.png)
+
+* 搜索商品的过程上，删除错选的商品时使用的。
+    1. 全体取消的机能用于取消页面上的全体商品。一般使用页面上内容的初始化。
+    2. ‘取消选择’用于取消特定行商品的输入。 (键盘的[Delete]按键也做同一的机能。)
+
+------------------------
+
+### <i class="fa fa-credit-card" markdown="1"></i> 2. 信用卡付款
+![信用卡付款]({{ site.url }}/images/pos_sales/device/pos_5.png)
+![信用卡付款]({{ site.url }}/images/pos_sales/device/pos_7.png)
+
+1. 搜索商品的状态上，打击[信用卡付款]按键。
+    * 商品搜索方法参照[商品搜索](#device_search)说明。
+2. 指定分期付款的期间。
+3. 打击[读卡]按键，就加载指南刷卡的短信。
+4. 加载中，在终端机插入信用卡，就自动付款。短信窗上要取消的话，输入ESC。
+
+------------------------
+
+### <i class="fa fa-money" markdown="1"></i> 3. 现金付款
+![现金付款]({{ site.url }}/images/pos_sales/device/pos_8.png)
+![现金付款]({{ site.url }}/images/pos_sales/device/pos_10.png)
+
+1. 搜索商品的状态上，打击[现金付款]按键。  
+    * 商品搜索方法参照[商品搜索](#device_search)说明。
+2. 输入收到的金额。
+3. 打击[输入要求]按键，加载指南刷卡的短信。
+4. 加载中，在终端机输入电话号码/身份证号/信用卡号码，就自动付款。短信窗上要取消的话，输入ESC。
+
+------------------------
+
+### <i class="fa fa-plus-square" markdown="1"></i> 4. 复合付款
+![复合付款]({{ site.url }}/images/pos_sales/device/pos_11.png)
+![复合付款]({{ site.url }}/images/pos_sales/device/pos_12.png)
+![复合付款]({{ site.url }}/images/pos_sales/device/pos_14.png)
+![复合付款]({{ site.url }}/images/pos_sales/device/pos_15.png)
+![复合付款]({{ site.url }}/images/pos_sales/device/pos_17.png)
+
+1. 搜索商品的状态上，打击[复合付款]按键。  
+    * 商品搜索方法参照[商品搜索](#device_search)说明。
+    * 页面例子)
+        * 付款1,000元的商品的时候，用信用卡800元和现金200元。
+2. 输入付款金额。
+    * 付款金额1,000元中，输入800元。
+3. 打击[信用卡]按键。
+4. 指定分期付款的期间。
+5. 打击[读卡]按键，就加载指南刷卡的短信。
+6. 加载状态上，在终端机刷卡，就自动付款。短信窗上 要取消的话，输入ESC。
+7. 输入付款金额。
+    * 付款金额1,000元中，输入200元。
+8. 打击[现金]按键。
+9. 打击[输入要求]按键，加载指南刷卡的短信。
+10. 加载中，在终端机输入电话号码/身份证号/信用卡号码，就自动付款。短信窗上要取消的话，输入ESC。
+    * 结存‘0‘’，付款自动结束。

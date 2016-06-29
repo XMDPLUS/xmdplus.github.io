@@ -1,7 +1,7 @@
 # publi.sh
 # change the branch names appropriately
 git checkout xphelp
-rm -rf _site/ ../_site/
+rm -rf _site/
 jekyll build
 git add --all
 git commit -m "`date`"
@@ -12,3 +12,5 @@ cp -R ../_site/* .
 git add --all
 git commit -m "`date`"
 git push origin master
+rm -rf ../_site/
+git checkout xphelp

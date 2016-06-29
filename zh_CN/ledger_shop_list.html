@@ -5,25 +5,25 @@
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta http-equiv="content-language" content="ja">
-    <title>入庫/返品登録</title>
+    <meta http-equiv="content-language" content="zh_CN">
+    <title>卖场入库/退货现况</title>
     <!-- Tell the browser to be responsive to screen width -->
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-    <meta name="description" content=" 項目説明  倉庫：商品を出荷または返品される倉庫を選択します。(倉庫を管理していない場合は、デフォルト倉庫に設定）  日付：商品が入荷または返品された日付を設定します。(過去の日付を入力することはできません。)  店舗：商品入庫、または返品する店舗を選択します。  区分：入庫/返品作業区分を選択します  伝票番...">
+    <meta name="description" content="[卖场入库/退货现况]">
 
     <link rel="stylesheet" href="/css/main.css">
-    <link rel="canonical" href="http://xmdplus.github.io/ledger_shop.html">
-    <link rel="alternate" type="application/rss+xml" title="ヘルプ" href="http://xmdplus.github.io/feed.xml">
+    <link rel="canonical" href="http://xmdplus.github.io/ledger_shop_list.html">
+    <link rel="alternate" type="application/rss+xml" title="指南" href="http://xmdplus.github.io/feed.xml">
 
-    <link rel="alternate" hreflang="ko" href="/ja/ledger_shop.html" />
+    <link rel="alternate" hreflang="ko" href="/zh_CN/ledger_shop_list.html" />
     
     
     
     
-    <link rel="alternate" hreflang="ja" href="ja/ledger_shop.html" />
+    <link rel="alternate" hreflang="ja" href="ja/ledger_shop_list.html" />
     
     
-    <link rel="alternate" hreflang="zh_CN" href="zh_CN/ledger_shop.html" />
+    <link rel="alternate" hreflang="zh_CN" href="zh_CN/ledger_shop_list.html" />
     
 
     <!-- Bootstrap 3.3.6 -->
@@ -57,11 +57,11 @@
         <header class="main-header">
 
     <!-- Logo -->
-    <a href="/ja/" class="logo">
+    <a href="/zh_CN/" class="logo">
         <!-- mini logo for sidebar mini 50x50 pixels -->
         <span class="logo-mini"><b>X</b>+</span>
         <!-- logo for regular state and mobile devices -->
-        <span class="logo-lg">XMD <b>PLUS</b> ヘルプ</span>
+        <span class="logo-lg">XMD <b>PLUS</b> 指南</span>
     </a>
 
     <!-- Header Navbar: style can be found in header.less -->
@@ -75,20 +75,20 @@
             <ul class="nav navbar-nav">
                 
                 <li class="dropdown">
-                    <a href=" /ledger_shop.html ">
+                    <a href=" /ledger_shop_list.html ">
                         <img src="/dist/img/flags/ko.png" style="height:20px; "/>
                     </a>
                 </li>
                 
                 <li class="dropdown">
-                    <a href=" /ja/ledger_shop.html ">
-                        <img src="/dist/img/flags/ja.png" style="height:20px; border:1px solid white;"/>
+                    <a href=" /ja/ledger_shop_list.html ">
+                        <img src="/dist/img/flags/ja.png" style="height:20px; "/>
                     </a>
                 </li>
                 
                 <li class="dropdown">
-                    <a href=" /zh_CN/ledger_shop.html ">
-                        <img src="/dist/img/flags/zh_CN.png" style="height:20px; "/>
+                    <a href=" /zh_CN/ledger_shop_list.html ">
+                        <img src="/dist/img/flags/zh_CN.png" style="height:20px; border:1px solid white;"/>
                     </a>
                 </li>
                 
@@ -102,7 +102,7 @@
 <aside class="main-sidebar">
     <!-- sidebar: style can be found in sidebar.less -->
     <section class="sidebar">
-        <form action=" /ja/ " method="get" class="sidebar-form">
+        <form action=" /zh_CN/ " method="get" class="sidebar-form">
             <div class="input-group">
                 <input type="text" id="search-box" name="query" class="form-control" placeholder="Search..." tabindex="0" onfocus="this.value='';">
                 <span class="input-group-btn">
@@ -114,7 +114,7 @@
         <!-- /.search form -->
         <!-- sidebar menu: : style can be found in sidebar.less -->
         <ul class="sidebar-menu">
-            <li class="header">ヘルプリスト</li>
+            <li class="header">指南列表</li>
             
             <li class="treeview">
                 <a href="#">
@@ -124,7 +124,7 @@
                     
                     
                     
-                    <li><a href="/ja/product_code.html"><i class="fa fa-circle-o"></i> 商品コード管理</a></li>
+                    <li><a href="/zh_CN/product_code.html"><i class="fa fa-circle-o"></i> 商品代码管理</a></li>
                     
                     
                 </ul>
@@ -132,15 +132,15 @@
             
             <li class="treeview">
                 <a href="#">
-                    <i class="fa fa-question-circle"></i> <span>店舗管理</span> <i class="fa fa-angle-left pull-right"></i>
+                    <i class="fa fa-question-circle"></i> <span>卖场管理</span> <i class="fa fa-angle-left pull-right"></i>
                 </a>
                 <ul class="treeview-menu">
                     
                     
                     
-                    <li><a href="/ja/ledger_shop.html"><i class="fa fa-circle-o"></i> 入庫/返品登録</a></li>
+                    <li><a href="/zh_CN/ledger_shop.html"><i class="fa fa-circle-o"></i> 注册卖场入库/退货</a></li>
                     
-                    <li><a href="/ja/ledger_shop_list.html"><i class="fa fa-circle-o"></i> 店舗入庫/返品状況</a></li>
+                    <li><a href="/zh_CN/ledger_shop_list.html"><i class="fa fa-circle-o"></i> 卖场入库/退货现况</a></li>
                     
                     
                 </ul>
@@ -148,13 +148,13 @@
             
             <li class="treeview">
                 <a href="#">
-                    <i class="fa fa-question-circle"></i> <span>在庫管理</span> <i class="fa fa-angle-left pull-right"></i>
+                    <i class="fa fa-question-circle"></i> <span>库存管理</span> <i class="fa fa-angle-left pull-right"></i>
                 </a>
                 <ul class="treeview-menu">
                     
                     
                     
-                    <li><a href="/ja/base_stock.html"><i class="fa fa-circle-o"></i> 基礎在庫管理</a></li>
+                    <li><a href="/zh_CN/base_stock.html"><i class="fa fa-circle-o"></i> 基础库存管理</a></li>
                     
                     
                 </ul>
@@ -168,13 +168,13 @@
                     
                     
                     
-                    <li><a href="/ja/pos_sales.html"><i class="fa fa-circle-o"></i> 商品販売/決済</a></li>
+                    <li><a href="/zh_CN/pos_sales.html"><i class="fa fa-circle-o"></i> 商品 销售/付款</a></li>
                     
-                    <li><a href="/ja/pos_receipt.html"><i class="fa fa-circle-o"></i> 領収書照会</a></li>
+                    <li><a href="/zh_CN/pos_receipt.html"><i class="fa fa-circle-o"></i> 查询发票</a></li>
                     
-                    <li><a href="/ja/pos_refund.html"><i class="fa fa-circle-o"></i> 商品の返金</a></li>
+                    <li><a href="/zh_CN/pos_refund.html"><i class="fa fa-circle-o"></i> 退货商品</a></li>
                     
-                    <li><a href="/ja/pos_sales_suspension.html"><i class="fa fa-circle-o"></i> 販売保留</a></li>
+                    <li><a href="/zh_CN/pos_sales_suspension.html"><i class="fa fa-circle-o"></i> 保留销售</a></li>
                     
                     
                 </ul>
@@ -194,65 +194,59 @@
 
     <div class="box box-default">
         <div class="box-header with-border">
-            <h3 class="box-title"><i class="fa fa-map-pin"></i> 入庫/返品登録</h3>
-            <p class="pull-right" style="margin:0;"><time datetime="2016-06-17T10:18:28+09:00" itemprop="datePublished">2016-06-17 10:18</time> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">bluesolar</span></span></p>
+            <h3 class="box-title"><i class="fa fa-map-pin"></i> 卖场入库/退货现况</h3>
+            <p class="pull-right" style="margin:0;"><time datetime="2016-06-17T17:35:19+09:00" itemprop="datePublished">2016-06-17 17:35</time> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">bluesolar</span></span></p>
         </div>
         <div class="box-body">
             <div class="row">
                 <div class="col-sm-12 post-content" itemprop="articleBody">
-                    <h3 id="i-classfa-fa-tag-markdown1i-"><i class="fa fa-tag"></i> 項目説明</h3>
+                    <p><img src="http://xmdplus.github.io/images/ledger_shop_list/ledger_shop_list.png" alt="卖场入库/退货现况" />
+<em style="color: #666; font-weight: bold; float: right;">[卖场入库/退货现况]</em></p>
+
+<p><br /></p>
+
+<h3 id="i-classfa-fa-tag-markdown1i-"><i class="fa fa-tag"></i> 项目说明</h3>
 <ul>
-  <li>倉庫：商品を出荷または返品される倉庫を選択します。(倉庫を管理していない場合は、デフォルト倉庫に設定）</li>
-  <li>日付：商品が入荷または返品された日付を設定します。(過去の日付を入力することはできません。)</li>
-  <li>店舗：商品入庫、または返品する店舗を選択します。</li>
-  <li>区分：入庫/返品作業区分を選択します</li>
-  <li>伝票番号：伝票番号は、各作業ごとに自動生成される作業番号です。</li>
+  <li>选择卖场 : 选择要注册基础库存的卖场。</li>
+  <li>期间 : 选择要查询的期间。</li>
+  <li>仓库 : 使用从特定仓库要查询入库/退货内容的时候。(如果不管理仓库，选择总体或基本仓库。)</li>
+  <li>采购处 : 使用要确认特定采购处的商品入库/退货内容的时候。</li>
+  <li>处理区分 : 可以查询入库/退货处理别数据。</li>
+  <li>尺码 : 系统网络上可以查询尺码的标示形态（横或纵形态）。
+<img src="http://xmdplus.github.io/images/ledger_shop_list/ledger_shop_list_horizon.png" alt="横形态" />
+<em style="color: #666; font-weight: bold; float: right;">[横形态]</em>
+<img src="http://xmdplus.github.io/images/ledger_shop_list/ledger_shop_list_vertical.png" alt="纵形态" />
+<em style="color: #666; font-weight: bold; float: right;">[纵形态]</em></li>
 </ul>
 
-<hr />
+<p><br /></p>
 
-<h3 id="i-classfa-fa-pencil-markdown1i-"><i class="fa fa-pencil"></i> 入力作業</h3>
-<p><img src="http://xmdplus.github.io/images/ledger_shop/insert.png" alt="店舗入庫/返品登録" /></p>
+<ul>
+  <li>查询区分 : 可以查询用日子别合计、采购处别合计、商品单位的数据。
+<img src="http://xmdplus.github.io/images/ledger_shop_list/summary_date.png" alt="日子别合计" />
+<em style="color: #666; font-weight: bold; float: right;">[日子别合计]</em>
+<img src="http://xmdplus.github.io/images/ledger_shop_list/summary_supplier.png" alt="采购处别合计" />
+<em style="color: #666; font-weight: bold; float: right;">[采购处别合计]</em></li>
+</ul>
 
-<ol>
-  <li>倉庫設定、入庫日、作業区分を選択します。</li>
-  <li>入力ボタンをクリックします。</li>
-  <li>商品を選択します。(商品検索ウィンドウを閉じずに他の商品を連続で追加することができます。)
-    <ol>
-      <li>バーコードスキャンボタンクリック後、商品のバーコードスキャンして商品を追加します。</li>
-    </ol>
-  </li>
-  <li>各商品の入荷数量をサイズ別に入力して、入庫単価を入力します。</li>
-  <li>作業が完了したら、[保存]ボタンをクリックして、データを保存します。</li>
-</ol>
+<p><br /></p>
 
-<hr />
+<ul>
+  <li>搜索商品条件 : 使用要查询有关特定条件的商品入库/退货内容的时候。
+<img src="http://xmdplus.github.io/images/ledger_shop_list/product_search_detail.png" alt="搜索商品条件" />
+<em style="color: #666; font-weight: bold; float: right;">[搜索商品条件]</em></li>
+</ul>
 
-<h3 id="i-classfa-fa-pencil-square-o-markdown1i-"><i class="fa fa-pencil-square-o"></i> 修正作業</h3>
-<p><img src="http://xmdplus.github.io/images/ledger_shop/update.png" alt="店舗入庫/返品修正" /></p>
-
-<ol>
-  <li>伝票番号照会ボタンをクリックし、修正したい伝票を表示します</li>
-  <li>入力ボタンを押したら、新規入力または伝票修正確認ウィンドウから既存伝票修正ボタンを押します。</li>
-  <li>修正したい商品の数量を変更したり、商品を追加します。
-    <ol>
-      <li>商品を削除したい場合は、数量を0に変更して保存してください。</li>
-    </ol>
-  </li>
-  <li>作業が完了したら、[保存]ボタンをクリックして、データを保存します。</li>
-</ol>
+<p><br /></p>
 
 <hr />
 
-<h3 id="i-classfa-fa-trash-markdown1i-"><i class="fa fa-trash"></i> 削除操作</h3>
-<p><img src="http://xmdplus.github.io/images/ledger_shop/delete.png" alt="店舗入庫/返品削除" /></p>
-
-<ol>
-  <li>伝票番号照会ボタンをクリックし、削除したい伝票を表示します。</li>
-  <li>[削除]ボタンをクリックして、伝票を削除します。</li>
-</ol>
-
-<p><em style="color: red; font-size: 18px; font-weight: bold;">※注意：削除は伝票単位で行われます。特定の商品のみを削除したい場合は、数量を0に変更してください。</em></p>
+<h3 id="i-classfa-fa-tag-markdown1i--1"><i class="fa fa-tag"></i> 机能说明</h3>
+<ul>
+  <li>‘查询现况’按键 : 用上端设定的搜索条件，查询数据。</li>
+  <li>‘新注册’按键 : 移动到新入库/退库处理。</li>
+  <li>‘传票号码’ 字段 : 双击就可以修改选的传票。</li>
+</ul>
 
                 </div>
             </div>

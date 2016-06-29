@@ -1,4 +1,4 @@
 var messages = {
-    "has_results" : "검색어 [{TERM}]에 대한 검색 결과는 [{CNT}]건 입니다.",
-    "no_result" : "검색어 [{TERM}]에 대한 검색 결과가 없습니다."
+    "has_results" : "对于搜索语[{TERM}]的搜索结果是[{CNT}]件。",
+    "no_result" : "对于搜索语[{TERM}]的搜索结果没有。"
 };

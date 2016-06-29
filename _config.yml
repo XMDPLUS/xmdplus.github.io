@@ -11,12 +11,12 @@ logo-suffix: PLUS
 title:
     ko: 도움말
     ja: ヘルプ
-    zh_CN: 指南
+    zh_CN: 帮助
 email: dev@xmd.co.kr
 description:
     ko: > # XMDPLUS 도움말.
     ja: > # XMDPLUS ヘルプ。
-    zh_CN: > # XMDPLUS 指南。
+    zh_CN: > # XMDPLUS 帮助。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://xmdplus.github.io" # the base hostname & protocol for your site
 # url: "http://localhost:3000" # the base hostname & protocol for your site
@@ -31,12 +31,12 @@ markdown: kramdown
 list_header:
     ko: 도움말 리스트
     ja: ヘルプリスト
-    zh_CN: 指南列表
+    zh_CN: 帮助目录
 
 index_content:
     ko: XMD PLUS 서비스 사용 도움말입니다.
-    ja: XMD PLUS サービス利用のヒントです。
-    zh_CN: 这份文件是XMD PLUS的用户指南。
+    ja: XMD PLUSサービス利用のヒントです。
+    zh_CN: XMD PLUS服务使用的帮助。
 
 gems:
     - jekyll-polyglot

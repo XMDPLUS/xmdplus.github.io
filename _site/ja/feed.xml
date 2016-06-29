@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{&quot;ko&quot;=&gt;&quot;도움말&quot;, &quot;ja&quot;=&gt;&quot;ヘルプ&quot;, &quot;zh_CN&quot;=&gt;&quot;指南&quot;}</title>
+    <title>{&quot;ko&quot;=&gt;&quot;도움말&quot;, &quot;ja&quot;=&gt;&quot;ヘルプ&quot;, &quot;zh_CN&quot;=&gt;&quot;帮助&quot;}</title>
     <description>{&quot;ko&quot;=&gt;&quot;&quot;, &quot;ja&quot;=&gt;&quot;&quot;, &quot;zh_CN&quot;=&gt;&quot;&quot;}</description>
     <link>http://xmdplus.github.io/</link>
     <atom:link href="http://xmdplus.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 29 Jun 2016 16:58:17 +0900</pubDate>
-    <lastBuildDate>Wed, 29 Jun 2016 16:58:17 +0900</lastBuildDate>
+    <pubDate>Wed, 29 Jun 2016 17:02:15 +0900</pubDate>
+    <lastBuildDate>Wed, 29 Jun 2016 17:02:15 +0900</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>

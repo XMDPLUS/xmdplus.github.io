@@ -3,16 +3,16 @@
   <channel>
     <title>{&quot;ko&quot;=&gt;&quot;도움말&quot;, &quot;ja&quot;=&gt;&quot;ヘルプ&quot;, &quot;zh_CN&quot;=&gt;&quot;帮助&quot;}</title>
     <description>{&quot;ko&quot;=&gt;&quot;&quot;, &quot;ja&quot;=&gt;&quot;&quot;, &quot;zh_CN&quot;=&gt;&quot;&quot;}</description>
-    <link>http://xmdsoho.github.io/</link>
-    <atom:link href="http://xmdsoho.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 23 Sep 2016 15:14:44 +0900</pubDate>
-    <lastBuildDate>Fri, 23 Sep 2016 15:14:44 +0900</lastBuildDate>
+    <link>http://xmdplus.github.io/</link>
+    <atom:link href="http://xmdplus.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 23 Sep 2016 15:18:19 +0900</pubDate>
+    <lastBuildDate>Fri, 23 Sep 2016 15:18:19 +0900</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>판매 보류</title>
         <description>&lt;h3 id=&quot;i-classfa-fa-hand-stop-o-markdown1i-&quot;&gt;&lt;i class=&quot;fa fa-hand-stop-o&quot;&gt;&lt;/i&gt; 판매보류&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales_suspension/pos_33.png&quot; alt=&quot;판매보류&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales_suspension/pos_33.png&quot; alt=&quot;판매보류&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;판매보류는 구매할 품목을 임시로 보관할 경우 사용합니다.&lt;/li&gt;
@@ -30,15 +30,15 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-search-markdown1i--&quot;&gt;&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; 판매보류 조회&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales_suspension/pos_34.png&quot; alt=&quot;판매보류 조회&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales_suspension/pos_34.png&quot; alt=&quot;판매보류 조회&quot; /&gt;&lt;/p&gt;
 &lt;ol&gt;
   &lt;li&gt;판매보류조회 버튼을 클릭합니다.&lt;/li&gt;
   &lt;li&gt;판매보류 리스트에서 보류된 내역을 더블 클릭합니다.&lt;/li&gt;
 &lt;/ol&gt;
 </description>
         <pubDate>Fri, 17 Jun 2016 20:09:24 +0900</pubDate>
-        <link>http://xmdsoho.github.io/pos_sales_suspension.html</link>
-        <guid isPermaLink="true">http://xmdsoho.github.io/pos_sales_suspension.html</guid>
+        <link>http://xmdplus.github.io/pos_sales_suspension.html</link>
+        <guid isPermaLink="true">http://xmdplus.github.io/pos_sales_suspension.html</guid>
         
         
         <category>POS</category>
@@ -60,8 +60,8 @@
 &lt;h2 id=&quot;a-namenotusedevicesai-classfa-fa-undo-markdown1i----&quot;&gt;&lt;a name=&quot;not_use_devices&quot;&gt;&lt;/a&gt;&lt;i class=&quot;fa fa-undo&quot;&gt;&lt;/i&gt; 장비 미사용시 상품 환불&lt;/h2&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-credit-card-markdown1i-1--&quot;&gt;&lt;i class=&quot;fa fa-credit-card&quot;&gt;&lt;/i&gt; 1. 카드 환불&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/nodevice/pos_20.png&quot; alt=&quot;카드 환불&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/nodevice/pos_21.png&quot; alt=&quot;카드 환불&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/nodevice/pos_20.png&quot; alt=&quot;카드 환불&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/nodevice/pos_21.png&quot; alt=&quot;카드 환불&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;영수증조회를 클릭하여 반품할 영수증을 불러옵니다.
@@ -77,8 +77,8 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-money-markdown1i-2--&quot;&gt;&lt;i class=&quot;fa fa-money&quot;&gt;&lt;/i&gt; 2. 현금 환불&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/nodevice/pos_23.png&quot; alt=&quot;현금 환불&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/nodevice/pos_24.png&quot; alt=&quot;현금 환불&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/nodevice/pos_23.png&quot; alt=&quot;현금 환불&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/nodevice/pos_24.png&quot; alt=&quot;현금 환불&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;영수증조회를 클릭하여 반품할 영수증을 불러옵니다.
@@ -94,11 +94,11 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-plus-square-markdown1i-3---&quot;&gt;&lt;i class=&quot;fa fa-plus-square&quot;&gt;&lt;/i&gt; 3. 복합 결제 환불&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/nodevice/pos_26.png&quot; alt=&quot;복합 결제 환불&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/nodevice/pos_27.png&quot; alt=&quot;복합 결제 환불&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/nodevice/pos_28.png&quot; alt=&quot;복합 결제 환불&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/nodevice/pos_30.png&quot; alt=&quot;복합 결제 환불&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/nodevice/pos_31.png&quot; alt=&quot;복합 결제 환불&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/nodevice/pos_26.png&quot; alt=&quot;복합 결제 환불&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/nodevice/pos_27.png&quot; alt=&quot;복합 결제 환불&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/nodevice/pos_28.png&quot; alt=&quot;복합 결제 환불&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/nodevice/pos_30.png&quot; alt=&quot;복합 결제 환불&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/nodevice/pos_31.png&quot; alt=&quot;복합 결제 환불&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;영수증조회를 클릭하여 반품할 영수증을 불러옵니다.
@@ -127,8 +127,8 @@
 &lt;h2 id=&quot;a-nameusedevicesai-classfa-fa-undo-markdown1i----&quot;&gt;&lt;a name=&quot;use_devices&quot;&gt;&lt;/a&gt;&lt;i class=&quot;fa fa-undo&quot;&gt;&lt;/i&gt; 장비 사용시 상품 환불&lt;/h2&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-credit-card-markdown1i-1---1&quot;&gt;&lt;i class=&quot;fa fa-credit-card&quot;&gt;&lt;/i&gt; 1. 카드 환불&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/device/pos_20.png&quot; alt=&quot;카드 환불&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/device/pos_22.png&quot; alt=&quot;카드 환불&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/device/pos_20.png&quot; alt=&quot;카드 환불&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/device/pos_22.png&quot; alt=&quot;카드 환불&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;영수증조회를 클릭하여 반품할 영수증을 불러옵니다.
@@ -144,8 +144,8 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-money-markdown1i-2---1&quot;&gt;&lt;i class=&quot;fa fa-money&quot;&gt;&lt;/i&gt; 2. 현금 환불&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/device/pos_23.png&quot; alt=&quot;현금 환불&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/device/pos_25.png&quot; alt=&quot;현금 환불&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/device/pos_23.png&quot; alt=&quot;현금 환불&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/device/pos_25.png&quot; alt=&quot;현금 환불&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;영수증조회를 클릭하여 반품할 영수증을 불러옵니다.
@@ -162,11 +162,11 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-plus-square-markdown1i-3----1&quot;&gt;&lt;i class=&quot;fa fa-plus-square&quot;&gt;&lt;/i&gt; 3. 복합 결제 환불&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/device/pos_26.png&quot; alt=&quot;복합 결제 환불&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/device/pos_27.png&quot; alt=&quot;복합 결제 환불&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/device/pos_29.png&quot; alt=&quot;복합 결제 환불&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/device/pos_30.png&quot; alt=&quot;복합 결제 환불&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/device/pos_32.png&quot; alt=&quot;복합 결제 환불&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/device/pos_26.png&quot; alt=&quot;복합 결제 환불&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/device/pos_27.png&quot; alt=&quot;복합 결제 환불&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/device/pos_29.png&quot; alt=&quot;복합 결제 환불&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/device/pos_30.png&quot; alt=&quot;복합 결제 환불&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/device/pos_32.png&quot; alt=&quot;복합 결제 환불&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;영수증조회를 클릭하여 반품할 영수증을 불러옵니다.
@@ -191,8 +191,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Fri, 17 Jun 2016 19:59:34 +0900</pubDate>
-        <link>http://xmdsoho.github.io/pos_refund.html</link>
-        <guid isPermaLink="true">http://xmdsoho.github.io/pos_refund.html</guid>
+        <link>http://xmdplus.github.io/pos_refund.html</link>
+        <guid isPermaLink="true">http://xmdplus.github.io/pos_refund.html</guid>
         
         
         <category>POS</category>
@@ -204,7 +204,7 @@
         <description>&lt;h3 id=&quot;i-classfa-fa-search-markdown1i--&quot;&gt;&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; 영수증 조회&lt;/h3&gt;
 
 &lt;h4 id=&quot;i-classfa-fa-search-markdown1i-------&quot;&gt;&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; 영수증 조회 방법 – 영수증 조회 팝업&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_receipt/pos_18.png&quot; alt=&quot;영수증 조회 방법 – 영수증 조회 팝업&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_receipt/pos_18.png&quot; alt=&quot;영수증 조회 방법 – 영수증 조회 팝업&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;영수증조회 버튼을 클릭하여 영수증 리스트 팝업을 로딩합니다.&lt;/li&gt;
@@ -213,15 +213,15 @@
 &lt;/ol&gt;
 
 &lt;h4 id=&quot;i-classfa-fa-barcode-markdown1i-------&quot;&gt;&lt;i class=&quot;fa fa-barcode&quot;&gt;&lt;/i&gt; 영수증 조회 방법 – 영수증 바코드 스캔&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_receipt/pos_19.png&quot; alt=&quot;영수증 조회 방법 – 영수증 바코드 스캔&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_receipt/pos_19.png&quot; alt=&quot;영수증 조회 방법 – 영수증 바코드 스캔&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;영수증하단의 바코드를 스캔 하면 영수증의 구매 내역을 바로 불러올 수 있습니다.&lt;/li&gt;
 &lt;/ol&gt;
 </description>
         <pubDate>Fri, 17 Jun 2016 19:08:26 +0900</pubDate>
-        <link>http://xmdsoho.github.io/pos_receipt.html</link>
-        <guid isPermaLink="true">http://xmdsoho.github.io/pos_receipt.html</guid>
+        <link>http://xmdplus.github.io/pos_receipt.html</link>
+        <guid isPermaLink="true">http://xmdplus.github.io/pos_receipt.html</guid>
         
         
         <category>POS</category>
@@ -230,7 +230,7 @@
     
       <item>
         <title>매장 입고/반품 현황</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/ledger_shop_list/ledger_shop_list.png&quot; alt=&quot;매장 입고/반품 현황&quot; /&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/ledger_shop_list/ledger_shop_list.png&quot; alt=&quot;매장 입고/반품 현황&quot; /&gt;
 &lt;em style=&quot;color: #666; font-weight: bold; float: right;&quot;&gt;[매장 입고/반품 현황]&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -243,9 +243,9 @@
   &lt;li&gt;매입처 : 특정 매입처의 상품입고/반품 내역을 확인하고자 할때 사용합니다.&lt;/li&gt;
   &lt;li&gt;작업구분 : 입고 / 반품 작업별로 데이터를 조회 할 수 있습니다.&lt;/li&gt;
   &lt;li&gt;사이즈 : 그리드상에 사이즈 표시형태를 가로형태 또는 세로형태로 조회할 수 있습니다.
-&lt;img src=&quot;http://xmdsoho.github.io/images/ledger_shop_list/ledger_shop_list_horizon.png&quot; alt=&quot;가로형태&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/ledger_shop_list/ledger_shop_list_horizon.png&quot; alt=&quot;가로형태&quot; /&gt;
 &lt;em style=&quot;color: #666; font-weight: bold; float: right;&quot;&gt;[가로형태]&lt;/em&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/ledger_shop_list/ledger_shop_list_vertical.png&quot; alt=&quot;세로형태&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/ledger_shop_list/ledger_shop_list_vertical.png&quot; alt=&quot;세로형태&quot; /&gt;
 &lt;em style=&quot;color: #666; font-weight: bold; float: right;&quot;&gt;[세로형태]&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -253,9 +253,9 @@
 
 &lt;ul&gt;
   &lt;li&gt;조회구분 : 일자별 합계, 매입처별 합계, 상품 단위로 데이터를 조회를 할 수 있습니다.
-&lt;img src=&quot;http://xmdsoho.github.io/images/ledger_shop_list/summary_date.png&quot; alt=&quot;일자별 합계&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/ledger_shop_list/summary_date.png&quot; alt=&quot;일자별 합계&quot; /&gt;
 &lt;em style=&quot;color: #666; font-weight: bold; float: right;&quot;&gt;[일자별 합계]&lt;/em&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/ledger_shop_list/summary_supplier.png&quot; alt=&quot;매입처별 합계&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/ledger_shop_list/summary_supplier.png&quot; alt=&quot;매입처별 합계&quot; /&gt;
 &lt;em style=&quot;color: #666; font-weight: bold; float: right;&quot;&gt;[매입처별 합계]&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -263,7 +263,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;상품검색조건 : 특정 조건에 해당하는 상품의 입고/반품 내역을 조회하고자 할때 사용합니다.
-&lt;img src=&quot;http://xmdsoho.github.io/images/ledger_shop_list/product_search_detail.png&quot; alt=&quot;상품검색조건&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/ledger_shop_list/product_search_detail.png&quot; alt=&quot;상품검색조건&quot; /&gt;
 &lt;em style=&quot;color: #666; font-weight: bold; float: right;&quot;&gt;[상품검색조건]&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -279,8 +279,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 17 Jun 2016 17:35:19 +0900</pubDate>
-        <link>http://xmdsoho.github.io/ledger_shop_list.html</link>
-        <guid isPermaLink="true">http://xmdsoho.github.io/ledger_shop_list.html</guid>
+        <link>http://xmdplus.github.io/ledger_shop_list.html</link>
+        <guid isPermaLink="true">http://xmdplus.github.io/ledger_shop_list.html</guid>
         
         
         <category>매장 관리</category>
@@ -290,7 +290,7 @@
       <item>
         <title>상품코드 관리</title>
         <description>&lt;h3 id=&quot;i-classfa-fa-search-markdown1i--&quot;&gt;&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; 상품코드 조회&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_1.png&quot; alt=&quot;상품코드 조회&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_1.png&quot; alt=&quot;상품코드 조회&quot; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;section&quot;&gt;1. 상품코드 메뉴&lt;/h4&gt;
 &lt;ul&gt;
@@ -328,7 +328,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-pencil-markdown1i---1&quot;&gt;&lt;i class=&quot;fa fa-pencil&quot;&gt;&lt;/i&gt; 상품코드 신규입력 #1&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_2.png&quot; alt=&quot;상품코드 신규입력 #1&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_2.png&quot; alt=&quot;상품코드 신규입력 #1&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;상품코드 신규입력 버튼을 클릭합니다.&lt;/li&gt;
@@ -338,7 +338,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-pencil-markdown1i---2&quot;&gt;&lt;i class=&quot;fa fa-pencil&quot;&gt;&lt;/i&gt; 상품코드 신규입력 #2&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_3.png&quot; alt=&quot;상품코드 신규입력 #2&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_3.png&quot; alt=&quot;상품코드 신규입력 #2&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;사용중인 상품코드 체계에 따른 상품코드 항목을 선택합니다. 상품코드 체계에 따라서 표시되는 항목은 다를수 있습니다.&lt;br /&gt;
@@ -353,7 +353,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-pencil-markdown1i---3&quot;&gt;&lt;i class=&quot;fa fa-pencil&quot;&gt;&lt;/i&gt; 상품코드 신규입력 #3&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_4.png&quot; alt=&quot;상품코드 신규입력 #3&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_4.png&quot; alt=&quot;상품코드 신규입력 #3&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;상품코드를 선택하고 칼라/사이즈를 선택하면 상품 기본정보를 입력합니다.&lt;br /&gt;
@@ -398,7 +398,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-pencil-square-o-markdown1i---1&quot;&gt;&lt;i class=&quot;fa fa-pencil-square-o&quot;&gt;&lt;/i&gt; 상품코드 수정/상세보기 #1&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_5.png&quot; alt=&quot;상품코드 수정/상세보기 #1&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_5.png&quot; alt=&quot;상품코드 수정/상세보기 #1&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;조회된 상품목록에서 수정 또는 상세보기 할 행을 더블클릭합니다.&lt;/li&gt;
@@ -408,7 +408,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-pencil-square-o-markdown1i---2&quot;&gt;&lt;i class=&quot;fa fa-pencil-square-o&quot;&gt;&lt;/i&gt; 상품코드 수정/상세보기 #2&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_6.png&quot; alt=&quot;상품코드 수정/상세보기 #2&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_6.png&quot; alt=&quot;상품코드 수정/상세보기 #2&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;등록된 상품코드는 변경할 수 없고 조회만 가능합니다.&lt;/li&gt;
@@ -431,7 +431,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;a-nameregisterimageai-classfa-fa-pencil-markdown1i----1&quot;&gt;&lt;a name=&quot;register_image&quot;&gt;&lt;/a&gt;&lt;i class=&quot;fa fa-pencil&quot;&gt;&lt;/i&gt; 상품 이미지 등록 #1&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_7.png&quot; alt=&quot;상품 이미지 등록 #1&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_7.png&quot; alt=&quot;상품 이미지 등록 #1&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;[파일 불러오기] 버튼을 클릭하면 파일 선택창이 표시됩니다.&lt;/li&gt;
@@ -443,7 +443,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-pencil-markdown1i----2&quot;&gt;&lt;i class=&quot;fa fa-pencil&quot;&gt;&lt;/i&gt; 상품 이미지 등록 #2&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_8.png&quot; alt=&quot;상품 코드 수정/상세보기#2&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_8.png&quot; alt=&quot;상품 코드 수정/상세보기#2&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;선택된 이미지는 위와 같이 표시됩니다.&lt;/li&gt;
@@ -456,7 +456,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;a-namechangepriceai-classfa-fa-pencil-square-o-markdown1i--&quot;&gt;&lt;a name=&quot;change_price&quot;&gt;&lt;/a&gt;&lt;i class=&quot;fa fa-pencil-square-o&quot;&gt;&lt;/i&gt; 판매가 변경&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_9.png&quot; alt=&quot;판매가 변경&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_9.png&quot; alt=&quot;판매가 변경&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;판매가 변경은 상품 상세 페이지 하단부분의 판매가 변경 탭 또는 상품코드 목록의 판매가 변경 버튼을 클릭해서 표시되는 판매가 변경 팝업에서 가능합니다.
@@ -502,7 +502,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;a-namechangepriceai-classfa-fa-pencil-square-o-markdown1i---&quot;&gt;&lt;a name=&quot;change_price&quot;&gt;&lt;/a&gt;&lt;i class=&quot;fa fa-pencil-square-o&quot;&gt;&lt;/i&gt; 판매가 변경 이력&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_10.png&quot; alt=&quot;판매가 변경 이력&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_10.png&quot; alt=&quot;판매가 변경 이력&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;판매가 변경이력도 상품 상세 페이지 하단부분의 판매가 변경 이력 탭 또는 상품코드 목록의 판매가 변경 버튼을 클릭해서 표시되는 판매가 변경 팝업에서 확인 가능합니다.
@@ -516,7 +516,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;a-namechangepriceai-classfa-fa-pencil-square-o-markdown1i-----&quot;&gt;&lt;a name=&quot;change_price&quot;&gt;&lt;/a&gt;&lt;i class=&quot;fa fa-pencil-square-o&quot;&gt;&lt;/i&gt; 상품코드 관리 – 사용여부 변경&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_10.png&quot; alt=&quot;상품코드 관리 – 사용여부 변경&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_10.png&quot; alt=&quot;상품코드 관리 – 사용여부 변경&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;상품코드 목록에서 사용여부를 변경할 상품을 체크합니다. 체크는 여러 상품을 다중으로 할 수 있습니다.&lt;/li&gt;
@@ -527,7 +527,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;a-namechangepriceai-classfa-fa-pencil-square-o-markdown1i------1&quot;&gt;&lt;a name=&quot;change_price&quot;&gt;&lt;/a&gt;&lt;i class=&quot;fa fa-pencil-square-o&quot;&gt;&lt;/i&gt; 상품코드 관리 – 상품반품가능여부 변경&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_11.png&quot; alt=&quot;상품코드 관리 – 사용여부 변경&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_11.png&quot; alt=&quot;상품코드 관리 – 사용여부 변경&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;상품코드 목록에서 상품반품가능여부를 변경할 상품을 체크합니다. 체크는 여러 상품을 다중으로 할 수 있습니다.&lt;/li&gt;
@@ -538,7 +538,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;a-namechangepriceai-classfa-fa-pencil-square-o-markdown1i--------&quot;&gt;&lt;a name=&quot;change_price&quot;&gt;&lt;/a&gt;&lt;i class=&quot;fa fa-pencil-square-o&quot;&gt;&lt;/i&gt; 상품코드 관리 – 단일 상품 선택 후 작업&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_12.png&quot; alt=&quot;판매가 변경&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_12.png&quot; alt=&quot;판매가 변경&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;1번의 붉은색 박스들 안의 버튼들은 사용여부 변경/반품여부 변경과 다르게 상품코드 목록에서 단일 행을 3번과 같이 선택 후 클릭을 해야 동작합니다. 해당 버튼들은 상품코드를 다중 선택해서 작업할 수 있는 버튼이 아닙니다. 해당버튼의 자세한 설명은 아래에서 합니다.&lt;/li&gt;
@@ -569,7 +569,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;a-namechangepriceai-classfa-fa-pencil-square-o-markdown1i------&quot;&gt;&lt;a name=&quot;change_price&quot;&gt;&lt;/a&gt;&lt;i class=&quot;fa fa-pencil-square-o&quot;&gt;&lt;/i&gt; 상품 코드 관리 – 바코드 등록/삭제&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_13.png&quot; alt=&quot;판매가 변경&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_13.png&quot; alt=&quot;판매가 변경&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;상품을 선택하고 [바코드 등록/삭제] 버튼을 클릭합니다.&lt;/li&gt;
@@ -582,7 +582,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;a-namechangepriceai-classfa-fa-pencil-square-o-markdown1i-------1&quot;&gt;&lt;a name=&quot;change_price&quot;&gt;&lt;/a&gt;&lt;i class=&quot;fa fa-pencil-square-o&quot;&gt;&lt;/i&gt; 상품 코드 관리 – 바코드 출력&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_14.png&quot; alt=&quot;판매가 변경&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_14.png&quot; alt=&quot;판매가 변경&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;상품을 선택하고 [바코드 출력] 버튼을 클릭합니다.&lt;/li&gt;
@@ -594,7 +594,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;a-namechangepriceai-classfa-fa-pencil-square-o-markdown1i------2&quot;&gt;&lt;a name=&quot;change_price&quot;&gt;&lt;/a&gt;&lt;i class=&quot;fa fa-pencil-square-o&quot;&gt;&lt;/i&gt; 상품 코드 관리 – 주문등록&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_15.png&quot; alt=&quot;판매가 변경&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_15.png&quot; alt=&quot;판매가 변경&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;상품을 선택하고 [주문등록] 버튼을 클릭합니다.&lt;/li&gt;
@@ -609,8 +609,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Fri, 17 Jun 2016 16:55:50 +0900</pubDate>
-        <link>http://xmdsoho.github.io/product_code.html</link>
-        <guid isPermaLink="true">http://xmdsoho.github.io/product_code.html</guid>
+        <link>http://xmdplus.github.io/product_code.html</link>
+        <guid isPermaLink="true">http://xmdplus.github.io/product_code.html</guid>
         
         
         <category>상품 관리</category>
@@ -634,14 +634,14 @@
 &lt;h3 id=&quot;a-namenodevicesearchai-classfa-fa-search-markdown1i-1--&quot;&gt;&lt;a name=&quot;nodevice_search&quot;&gt;&lt;/a&gt;&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; 1. 상품 조회&lt;/h3&gt;
 
 &lt;h4 id=&quot;i-classfa-fa-search-markdown1i----&quot;&gt;&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; 상품검색방법 – 바코드 스캔&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/nodevice/pos_1.png&quot; alt=&quot;상품검색방법 – 바코드 스캔&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/nodevice/pos_1.png&quot; alt=&quot;상품검색방법 – 바코드 스캔&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;마우스 커서를 확인하고 상품의 바코드를 스캔 합니다.&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h4 id=&quot;i-classfa-fa-search-markdown1i-----&quot;&gt;&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; 상품검색방법 -  상품검색팝업&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/nodevice/pos_2.png&quot; alt=&quot;상품검색방법 -  상품검색팝업&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/nodevice/pos_2.png&quot; alt=&quot;상품검색방법 -  상품검색팝업&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;돋보기를 클릭하여 상품검색 팝업 창을 로딩합니다.&lt;/li&gt;
@@ -651,7 +651,7 @@
 &lt;/ol&gt;
 
 &lt;h4 id=&quot;i-classfa-fa-search-markdown1i---&quot;&gt;&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; 상품검색방법 – 간편검색&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/nodevice/pos_3.png&quot; alt=&quot;상품검색방법 – 간편검색&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/nodevice/pos_3.png&quot; alt=&quot;상품검색방법 – 간편검색&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;카테고리를 클릭하여 상품 종류를 선택합니다.&lt;/li&gt;
@@ -661,7 +661,7 @@
 &lt;p&gt;&lt;em style=&quot;color: red; font-size: 18px; font-weight: bold;&quot;&gt;※ 간편검색 사용시 관리자 페이지에서의 설정이 필요합니다.&lt;/em&gt; (상품관리 – 상품그룹관리 매뉴얼 참조.)&lt;/p&gt;
 
 &lt;h4 id=&quot;i-classfa-fa-remove-markdown1i----&quot;&gt;&lt;i class=&quot;fa fa-remove&quot;&gt;&lt;/i&gt; 선택된 상품 지우는 방법&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/nodevice/pos_4.png&quot; alt=&quot;선택된 상품 지우는 방법&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/nodevice/pos_4.png&quot; alt=&quot;선택된 상품 지우는 방법&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;상품검색과정에서 잘못 선택한 상품을 삭제할 때 사용합니다.
@@ -675,8 +675,8 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-credit-card-markdown1i-2--&quot;&gt;&lt;i class=&quot;fa fa-credit-card&quot;&gt;&lt;/i&gt; 2. 카드 결제&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/nodevice/pos_5.png&quot; alt=&quot;카드 결제&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/nodevice/pos_6.png&quot; alt=&quot;카드 결제&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/nodevice/pos_5.png&quot; alt=&quot;카드 결제&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/nodevice/pos_6.png&quot; alt=&quot;카드 결제&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;상품을 검색한 상태에서 카드결제 버튼을 클릭합니다.
@@ -694,8 +694,8 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-money-markdown1i-3--&quot;&gt;&lt;i class=&quot;fa fa-money&quot;&gt;&lt;/i&gt; 3. 현금 결제&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/nodevice/pos_8.png&quot; alt=&quot;현금 결제&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/nodevice/pos_9.png&quot; alt=&quot;현금 결제&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/nodevice/pos_8.png&quot; alt=&quot;현금 결제&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/nodevice/pos_9.png&quot; alt=&quot;현금 결제&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;상품을 검색한 상태에서 현금결제 버튼을 클릭합니다.
@@ -709,11 +709,11 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-plus-square-markdown1i-4--&quot;&gt;&lt;i class=&quot;fa fa-plus-square&quot;&gt;&lt;/i&gt; 4. 복합 결제&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/nodevice/pos_11.png&quot; alt=&quot;복합 결제&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/nodevice/pos_12.png&quot; alt=&quot;복합 결제&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/nodevice/pos_13.png&quot; alt=&quot;복합 결제&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/nodevice/pos_15.png&quot; alt=&quot;복합 결제&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/nodevice/pos_16.png&quot; alt=&quot;복합 결제&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/nodevice/pos_11.png&quot; alt=&quot;복합 결제&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/nodevice/pos_12.png&quot; alt=&quot;복합 결제&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/nodevice/pos_13.png&quot; alt=&quot;복합 결제&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/nodevice/pos_15.png&quot; alt=&quot;복합 결제&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/nodevice/pos_16.png&quot; alt=&quot;복합 결제&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;상품을 검색한 상태에서 복합결제 버튼을 클릭합니다.
@@ -753,14 +753,14 @@
 &lt;h3 id=&quot;a-namedevicesearchai-classfa-fa-search-markdown1i-1--&quot;&gt;&lt;a name=&quot;device_search&quot;&gt;&lt;/a&gt;&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; 1. 상품 조회&lt;/h3&gt;
 
 &lt;h4 id=&quot;i-classfa-fa-search-markdown1i-----1&quot;&gt;&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; 상품검색방법 – 바코드 스캔&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/device/pos_1.png&quot; alt=&quot;상품검색방법 – 바코드 스캔&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/device/pos_1.png&quot; alt=&quot;상품검색방법 – 바코드 스캔&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;마우스 커서를 확인하고 상품의 바코드를 스캔 합니다.&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h4 id=&quot;i-classfa-fa-search-markdown1i------1&quot;&gt;&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; 상품검색방법 -  상품검색팝업&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/device/pos_2.png&quot; alt=&quot;상품검색방법 -  상품검색팝업&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/device/pos_2.png&quot; alt=&quot;상품검색방법 -  상품검색팝업&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;돋보기를 클릭하여 상품검색 팝업 창을 로딩합니다.&lt;/li&gt;
@@ -770,7 +770,7 @@
 &lt;/ol&gt;
 
 &lt;h4 id=&quot;i-classfa-fa-search-markdown1i----1&quot;&gt;&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; 상품검색방법 – 간편검색&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/device/pos_3.png&quot; alt=&quot;상품검색방법 – 간편검색&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/device/pos_3.png&quot; alt=&quot;상품검색방법 – 간편검색&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;카테고리를 클릭하여 상품 종류를 선택합니다.&lt;/li&gt;
@@ -780,7 +780,7 @@
 &lt;p&gt;&lt;em style=&quot;color: red; font-size: 18px; font-weight: bold;&quot;&gt;※ 간편검색 사용시 관리자 페이지에서의 설정이 필요합니다.&lt;/em&gt; (상품관리 – 상품그룹관리 매뉴얼 참조.)&lt;/p&gt;
 
 &lt;h4 id=&quot;i-classfa-fa-remove-markdown1i-----1&quot;&gt;&lt;i class=&quot;fa fa-remove&quot;&gt;&lt;/i&gt; 선택된 상품 지우는 방법&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/device/pos_4.png&quot; alt=&quot;선택된 상품 지우는 방법&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/device/pos_4.png&quot; alt=&quot;선택된 상품 지우는 방법&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;상품검색과정에서 잘못 선택한 상품을 삭제할 때 사용합니다.
@@ -794,8 +794,8 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-credit-card-markdown1i-2---1&quot;&gt;&lt;i class=&quot;fa fa-credit-card&quot;&gt;&lt;/i&gt; 2. 카드 결제&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/device/pos_5.png&quot; alt=&quot;카드 결제&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/device/pos_7.png&quot; alt=&quot;카드 결제&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/device/pos_5.png&quot; alt=&quot;카드 결제&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/device/pos_7.png&quot; alt=&quot;카드 결제&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;상품을 검색한 상태에서 카드결제 버튼을 클릭합니다.
@@ -811,8 +811,8 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-money-markdown1i-3---1&quot;&gt;&lt;i class=&quot;fa fa-money&quot;&gt;&lt;/i&gt; 3. 현금 결제&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/device/pos_8.png&quot; alt=&quot;현금 결제&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/device/pos_10.png&quot; alt=&quot;현금 결제&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/device/pos_8.png&quot; alt=&quot;현금 결제&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/device/pos_10.png&quot; alt=&quot;현금 결제&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;상품을 검색한 상태에서 현금결제 버튼을 클릭합니다.
@@ -828,11 +828,11 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-plus-square-markdown1i-4---1&quot;&gt;&lt;i class=&quot;fa fa-plus-square&quot;&gt;&lt;/i&gt; 4. 복합 결제&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/device/pos_11.png&quot; alt=&quot;복합 결제&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/device/pos_12.png&quot; alt=&quot;복합 결제&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/device/pos_14.png&quot; alt=&quot;복합 결제&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/device/pos_15.png&quot; alt=&quot;복합 결제&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/device/pos_17.png&quot; alt=&quot;복합 결제&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/device/pos_11.png&quot; alt=&quot;복합 결제&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/device/pos_12.png&quot; alt=&quot;복합 결제&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/device/pos_14.png&quot; alt=&quot;복합 결제&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/device/pos_15.png&quot; alt=&quot;복합 결제&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/device/pos_17.png&quot; alt=&quot;복합 결제&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;상품을 검색한 상태에서 복합결제 버튼을 클릭합니다.
@@ -869,8 +869,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Fri, 17 Jun 2016 16:55:50 +0900</pubDate>
-        <link>http://xmdsoho.github.io/pos_sales.html</link>
-        <guid isPermaLink="true">http://xmdsoho.github.io/pos_sales.html</guid>
+        <link>http://xmdplus.github.io/pos_sales.html</link>
+        <guid isPermaLink="true">http://xmdplus.github.io/pos_sales.html</guid>
         
         
         <category>POS</category>
@@ -887,7 +887,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-pencil-markdown1i--&quot;&gt;&lt;i class=&quot;fa fa-pencil&quot;&gt;&lt;/i&gt; 입력 작업&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/base_stock/insert.png&quot; alt=&quot;기초 재고 등록&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/base_stock/insert.png&quot; alt=&quot;기초 재고 등록&quot; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;i-classfa-fa-pencil-markdown1i---&quot;&gt;&lt;i class=&quot;fa fa-pencil&quot;&gt;&lt;/i&gt; 입력 작업 (일반)&lt;/h4&gt;
 &lt;ol&gt;
@@ -921,7 +921,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-pencil-square-o-markdown1i--&quot;&gt;&lt;i class=&quot;fa fa-pencil-square-o&quot;&gt;&lt;/i&gt; 수정 작업&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/base_stock/update.png&quot; alt=&quot;기초 재고 수정&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/base_stock/update.png&quot; alt=&quot;기초 재고 수정&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;기초재고 수정을 원하는 매장을 선택합니다. 매장을 선택하면 해당 매장의 기초재고가 자동으로 불러와집니다.&lt;/li&gt;
@@ -932,7 +932,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-trash-markdown1i--&quot;&gt;&lt;i class=&quot;fa fa-trash&quot;&gt;&lt;/i&gt; 삭제 작업&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/base_stock/delete.png&quot; alt=&quot;기초 재고 삭제&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/base_stock/delete.png&quot; alt=&quot;기초 재고 삭제&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;기초재고 삭제를 원하는 매장을 선택합니다. 매장을 선택하면 해당 매장의 기초재고가 자동으로 불러와집니다.&lt;/li&gt;
@@ -941,8 +941,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Fri, 17 Jun 2016 11:34:14 +0900</pubDate>
-        <link>http://xmdsoho.github.io/base_stock.html</link>
-        <guid isPermaLink="true">http://xmdsoho.github.io/base_stock.html</guid>
+        <link>http://xmdplus.github.io/base_stock.html</link>
+        <guid isPermaLink="true">http://xmdplus.github.io/base_stock.html</guid>
         
         
         <category>재고 관리</category>
@@ -963,7 +963,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-pencil-markdown1i--&quot;&gt;&lt;i class=&quot;fa fa-pencil&quot;&gt;&lt;/i&gt; 입력 작업&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/ledger_shop/insert.png&quot; alt=&quot;매장 입고/반품 등록&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/ledger_shop/insert.png&quot; alt=&quot;매장 입고/반품 등록&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;창고설정 및 입고일자, 매장, 작업구분을 선택합니다.&lt;/li&gt;
@@ -980,7 +980,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-pencil-square-o-markdown1i--&quot;&gt;&lt;i class=&quot;fa fa-pencil-square-o&quot;&gt;&lt;/i&gt; 수정 작업&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/ledger_shop/update.png&quot; alt=&quot;매장 입고/반품 수정&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/ledger_shop/update.png&quot; alt=&quot;매장 입고/반품 수정&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;전표번호 조회 버튼을 클릭하여 수정을 원하는 전표를 불러옵니다.&lt;/li&gt;
@@ -996,7 +996,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-trash-markdown1i--&quot;&gt;&lt;i class=&quot;fa fa-trash&quot;&gt;&lt;/i&gt; 삭제 작업&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/ledger_shop/delete.png&quot; alt=&quot;매장 입고/반품 삭제&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/ledger_shop/delete.png&quot; alt=&quot;매장 입고/반품 삭제&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;전표번호 조회 버튼을 클릭하여 수정을 원하는 전표를 불러옵니다.&lt;/li&gt;
@@ -1006,8 +1006,8 @@
 &lt;p&gt;&lt;em style=&quot;color: red; font-size: 18px; font-weight: bold;&quot;&gt;※ 주의 : 삭제는 전표단위로 이루어집니다. 특정 상품만 삭제하고자 하는 경우 수량을 0으로 변경하세요.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 17 Jun 2016 10:18:28 +0900</pubDate>
-        <link>http://xmdsoho.github.io/ledger_shop.html</link>
-        <guid isPermaLink="true">http://xmdsoho.github.io/ledger_shop.html</guid>
+        <link>http://xmdplus.github.io/ledger_shop.html</link>
+        <guid isPermaLink="true">http://xmdplus.github.io/ledger_shop.html</guid>
         
         
         <category>매장 관리</category>

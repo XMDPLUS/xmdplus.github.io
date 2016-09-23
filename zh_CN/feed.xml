@@ -3,16 +3,16 @@
   <channel>
     <title>{&quot;ko&quot;=&gt;&quot;도움말&quot;, &quot;ja&quot;=&gt;&quot;ヘルプ&quot;, &quot;zh_CN&quot;=&gt;&quot;帮助&quot;}</title>
     <description>{&quot;ko&quot;=&gt;&quot;&quot;, &quot;ja&quot;=&gt;&quot;&quot;, &quot;zh_CN&quot;=&gt;&quot;&quot;}</description>
-    <link>http://xmdplus.github.io/</link>
-    <atom:link href="http://xmdplus.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 29 Jun 2016 17:02:15 +0900</pubDate>
-    <lastBuildDate>Wed, 29 Jun 2016 17:02:15 +0900</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <link>http://xmdsoho.github.io/</link>
+    <atom:link href="http://xmdsoho.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 23 Sep 2016 15:14:44 +0900</pubDate>
+    <lastBuildDate>Fri, 23 Sep 2016 15:14:44 +0900</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>保留销售</title>
         <description>&lt;h3 id=&quot;i-classfa-fa-hand-stop-o-markdown1i-&quot;&gt;&lt;i class=&quot;fa fa-hand-stop-o&quot;&gt;&lt;/i&gt; 保留销售&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales_suspension/pos_33.png&quot; alt=&quot;保留销售&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales_suspension/pos_33.png&quot; alt=&quot;保留销售&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;保留销售使用在临时保管购买品目的情况下。&lt;/li&gt;
@@ -30,13 +30,15 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-search-markdown1i-&quot;&gt;&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; 查询保留销售&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales_suspension/pos_34.png&quot; alt=&quot;查询保留销售&quot; /&gt;
-1. 打击[查询保留销售]按键。&lt;br /&gt;
-2. 在保留销售目录上双击保留的内容。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales_suspension/pos_34.png&quot; alt=&quot;查询保留销售&quot; /&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;打击[查询保留销售]按键。&lt;/li&gt;
+  &lt;li&gt;在保留销售目录上双击保留的内容。&lt;/li&gt;
+&lt;/ol&gt;
 </description>
         <pubDate>Fri, 17 Jun 2016 20:09:24 +0900</pubDate>
-        <link>http://xmdplus.github.io/pos_sales_suspension.html</link>
-        <guid isPermaLink="true">http://xmdplus.github.io/pos_sales_suspension.html</guid>
+        <link>http://xmdsoho.github.io/pos_sales_suspension.html</link>
+        <guid isPermaLink="true">http://xmdsoho.github.io/pos_sales_suspension.html</guid>
         
         
         <category>POS_zh</category>
@@ -58,8 +60,8 @@
 &lt;h2 id=&quot;a-namenotusedevicesai-classfa-fa-undo-markdown1i-&quot;&gt;&lt;a name=&quot;not_use_devices&quot;&gt;&lt;/a&gt;&lt;i class=&quot;fa fa-undo&quot;&gt;&lt;/i&gt; 装备未使用时商品退还&lt;/h2&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-credit-card-markdown1i-1-&quot;&gt;&lt;i class=&quot;fa fa-credit-card&quot;&gt;&lt;/i&gt; 1. 信用卡退还&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/nodevice/pos_20.png&quot; alt=&quot;信用卡退还&quot; /&gt;
-&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/nodevice/pos_21.png&quot; alt=&quot;信用卡退还&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/nodevice/pos_20.png&quot; alt=&quot;信用卡退还&quot; /&gt;
+&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/nodevice/pos_21.png&quot; alt=&quot;信用卡退还&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;打击‘’查询发票‘，引入要退还的发票。
@@ -75,8 +77,8 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-money-markdown1i-2&quot;&gt;&lt;i class=&quot;fa fa-money&quot;&gt;&lt;/i&gt; 2.现金退还&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/nodevice/pos_23.png&quot; alt=&quot;现金退还&quot; /&gt;
-&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/nodevice/pos_24.png&quot; alt=&quot;现金退还&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/nodevice/pos_23.png&quot; alt=&quot;现金退还&quot; /&gt;
+&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/nodevice/pos_24.png&quot; alt=&quot;现金退还&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;打击‘’查询发票‘，引入要退还的发票。
@@ -92,11 +94,11 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-plus-square-markdown1i-3-&quot;&gt;&lt;i class=&quot;fa fa-plus-square&quot;&gt;&lt;/i&gt; 3. 复合付款退还&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/nodevice/pos_26.png&quot; alt=&quot;复合付款退还&quot; /&gt;
-&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/nodevice/pos_27.png&quot; alt=&quot;复合付款退还&quot; /&gt;
-&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/nodevice/pos_28.png&quot; alt=&quot;复合付款退还&quot; /&gt;
-&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/nodevice/pos_30.png&quot; alt=&quot;复合付款退还&quot; /&gt;
-&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/nodevice/pos_31.png&quot; alt=&quot;复合付款退还&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/nodevice/pos_26.png&quot; alt=&quot;复合付款退还&quot; /&gt;
+&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/nodevice/pos_27.png&quot; alt=&quot;复合付款退还&quot; /&gt;
+&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/nodevice/pos_28.png&quot; alt=&quot;复合付款退还&quot; /&gt;
+&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/nodevice/pos_30.png&quot; alt=&quot;复合付款退还&quot; /&gt;
+&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/nodevice/pos_31.png&quot; alt=&quot;复合付款退还&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;打击‘’查询发票‘，引入要退还的发票。
@@ -125,8 +127,8 @@
 &lt;h2 id=&quot;a-nameusedevicesai-classfa-fa-undo-markdown1i-&quot;&gt;&lt;a name=&quot;use_devices&quot;&gt;&lt;/a&gt;&lt;i class=&quot;fa fa-undo&quot;&gt;&lt;/i&gt; 装备使用时商品退还&lt;/h2&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-credit-card-markdown1i-1--1&quot;&gt;&lt;i class=&quot;fa fa-credit-card&quot;&gt;&lt;/i&gt; 1. 信用卡退还&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/device/pos_20.png&quot; alt=&quot;信用卡退还&quot; /&gt;
-&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/device/pos_22.png&quot; alt=&quot;信用卡退还&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/device/pos_20.png&quot; alt=&quot;信用卡退还&quot; /&gt;
+&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/device/pos_22.png&quot; alt=&quot;信用卡退还&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;打击‘’查询发票‘，引入要退还的发票。
@@ -142,8 +144,8 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-money-markdown1i-2-&quot;&gt;&lt;i class=&quot;fa fa-money&quot;&gt;&lt;/i&gt; 2. 现金退还&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/device/pos_23.png&quot; alt=&quot;现金退还&quot; /&gt;
-&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/device/pos_25.png&quot; alt=&quot;现金退还&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/device/pos_23.png&quot; alt=&quot;现金退还&quot; /&gt;
+&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/device/pos_25.png&quot; alt=&quot;现金退还&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;打击‘’查询发票‘，引入要退还的发票。
@@ -160,11 +162,11 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-plus-square-markdown1i-3--1&quot;&gt;&lt;i class=&quot;fa fa-plus-square&quot;&gt;&lt;/i&gt; 3. 退还复合付款&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/device/pos_26.png&quot; alt=&quot;退还复合付款&quot; /&gt;
-&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/device/pos_27.png&quot; alt=&quot;退还复合付款&quot; /&gt;
-&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/device/pos_29.png&quot; alt=&quot;退还复合付款&quot; /&gt;
-&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/device/pos_30.png&quot; alt=&quot;退还复合付款&quot; /&gt;
-&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/device/pos_32.png&quot; alt=&quot;退还复合付款&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/device/pos_26.png&quot; alt=&quot;退还复合付款&quot; /&gt;
+&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/device/pos_27.png&quot; alt=&quot;退还复合付款&quot; /&gt;
+&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/device/pos_29.png&quot; alt=&quot;退还复合付款&quot; /&gt;
+&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/device/pos_30.png&quot; alt=&quot;退还复合付款&quot; /&gt;
+&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/device/pos_32.png&quot; alt=&quot;退还复合付款&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;打击[查询发票]，引入退还的发票。
@@ -189,8 +191,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Fri, 17 Jun 2016 19:59:34 +0900</pubDate>
-        <link>http://xmdplus.github.io/pos_refund.html</link>
-        <guid isPermaLink="true">http://xmdplus.github.io/pos_refund.html</guid>
+        <link>http://xmdsoho.github.io/pos_refund.html</link>
+        <guid isPermaLink="true">http://xmdsoho.github.io/pos_refund.html</guid>
         
         
         <category>POS_zh</category>
@@ -202,7 +204,7 @@
         <description>&lt;h3 id=&quot;i-classfa-fa-search-markdown1i-&quot;&gt;&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; 查询发票&lt;/h3&gt;
 
 &lt;h4 id=&quot;i-classfa-fa-search-markdown1i---&quot;&gt;&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; 发票查询方法 – 发票查询弹出窗口&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_receipt/pos_18.png&quot; alt=&quot;发票查询方法 – 发票查询弹出窗口&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_receipt/pos_18.png&quot; alt=&quot;发票查询方法 – 发票查询弹出窗口&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;打击[查询发票]按键，加载发票目录的弹出窗口。&lt;/li&gt;
@@ -211,15 +213,15 @@
 &lt;/ol&gt;
 
 &lt;h4 id=&quot;i-classfa-fa-barcode-markdown1i---&quot;&gt;&lt;i class=&quot;fa fa-barcode&quot;&gt;&lt;/i&gt; 发票查询方法 – 扫描发票条形码&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_receipt/pos_19.png&quot; alt=&quot;发票查询方法 – 扫描发票条形码&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_receipt/pos_19.png&quot; alt=&quot;发票查询方法 – 扫描发票条形码&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;扫描发票下端的条形码，就可以引入发票的购买内容。&lt;/li&gt;
 &lt;/ol&gt;
 </description>
         <pubDate>Fri, 17 Jun 2016 19:08:26 +0900</pubDate>
-        <link>http://xmdplus.github.io/pos_receipt.html</link>
-        <guid isPermaLink="true">http://xmdplus.github.io/pos_receipt.html</guid>
+        <link>http://xmdsoho.github.io/pos_receipt.html</link>
+        <guid isPermaLink="true">http://xmdsoho.github.io/pos_receipt.html</guid>
         
         
         <category>POS_zh</category>
@@ -228,7 +230,7 @@
     
       <item>
         <title>卖场入库/退货现况</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/ledger_shop_list/ledger_shop_list.png&quot; alt=&quot;卖场入库/退货现况&quot; /&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/ledger_shop_list/ledger_shop_list.png&quot; alt=&quot;卖场入库/退货现况&quot; /&gt;
 &lt;em style=&quot;color: #666; font-weight: bold; float: right;&quot;&gt;[卖场入库/退货现况]&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -241,9 +243,9 @@
   &lt;li&gt;采购处 : 使用要确认特定采购处的商品入库/退货内容的时候。&lt;/li&gt;
   &lt;li&gt;处理区分 : 可以查询入库/退货处理别数据。&lt;/li&gt;
   &lt;li&gt;尺码 : 系统网络上可以查询尺码的标示形态（横或纵形态）。
-&lt;img src=&quot;http://xmdplus.github.io/images/ledger_shop_list/ledger_shop_list_horizon.png&quot; alt=&quot;横形态&quot; /&gt;
+&lt;img src=&quot;http://xmdsoho.github.io/images/ledger_shop_list/ledger_shop_list_horizon.png&quot; alt=&quot;横形态&quot; /&gt;
 &lt;em style=&quot;color: #666; font-weight: bold; float: right;&quot;&gt;[横形态]&lt;/em&gt;
-&lt;img src=&quot;http://xmdplus.github.io/images/ledger_shop_list/ledger_shop_list_vertical.png&quot; alt=&quot;纵形态&quot; /&gt;
+&lt;img src=&quot;http://xmdsoho.github.io/images/ledger_shop_list/ledger_shop_list_vertical.png&quot; alt=&quot;纵形态&quot; /&gt;
 &lt;em style=&quot;color: #666; font-weight: bold; float: right;&quot;&gt;[纵形态]&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -251,9 +253,9 @@
 
 &lt;ul&gt;
   &lt;li&gt;查询区分 : 可以查询用日子别合计、采购处别合计、商品单位的数据。
-&lt;img src=&quot;http://xmdplus.github.io/images/ledger_shop_list/summary_date.png&quot; alt=&quot;日子别合计&quot; /&gt;
+&lt;img src=&quot;http://xmdsoho.github.io/images/ledger_shop_list/summary_date.png&quot; alt=&quot;日子别合计&quot; /&gt;
 &lt;em style=&quot;color: #666; font-weight: bold; float: right;&quot;&gt;[日子别合计]&lt;/em&gt;
-&lt;img src=&quot;http://xmdplus.github.io/images/ledger_shop_list/summary_supplier.png&quot; alt=&quot;采购处别合计&quot; /&gt;
+&lt;img src=&quot;http://xmdsoho.github.io/images/ledger_shop_list/summary_supplier.png&quot; alt=&quot;采购处别合计&quot; /&gt;
 &lt;em style=&quot;color: #666; font-weight: bold; float: right;&quot;&gt;[采购处别合计]&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -261,7 +263,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;搜索商品条件 : 使用要查询有关特定条件的商品入库/退货内容的时候。
-&lt;img src=&quot;http://xmdplus.github.io/images/ledger_shop_list/product_search_detail.png&quot; alt=&quot;搜索商品条件&quot; /&gt;
+&lt;img src=&quot;http://xmdsoho.github.io/images/ledger_shop_list/product_search_detail.png&quot; alt=&quot;搜索商品条件&quot; /&gt;
 &lt;em style=&quot;color: #666; font-weight: bold; float: right;&quot;&gt;[搜索商品条件]&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -277,8 +279,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 17 Jun 2016 17:35:19 +0900</pubDate>
-        <link>http://xmdplus.github.io/ledger_shop_list.html</link>
-        <guid isPermaLink="true">http://xmdplus.github.io/ledger_shop_list.html</guid>
+        <link>http://xmdsoho.github.io/ledger_shop_list.html</link>
+        <guid isPermaLink="true">http://xmdsoho.github.io/ledger_shop_list.html</guid>
         
         
         <category>卖场管理</category>
@@ -288,7 +290,7 @@
       <item>
         <title>商品代码管理</title>
         <description>&lt;h3 id=&quot;i-classfa-fa-search-markdown1i-&quot;&gt;&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; 查询商品代码&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_1.png&quot; alt=&quot;查询商品代码&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_1.png&quot; alt=&quot;查询商品代码&quot; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;section&quot;&gt;1. 商品代码选单&lt;/h4&gt;
 &lt;ul&gt;
@@ -326,7 +328,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-pencil-markdown1i-1&quot;&gt;&lt;i class=&quot;fa fa-pencil&quot;&gt;&lt;/i&gt;商品代码新输入 #1&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_2.png&quot; alt=&quot;商品代码新输入 #1&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_2.png&quot; alt=&quot;商品代码新输入 #1&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;打击[商品代码新输入]按键。&lt;/li&gt;
@@ -336,7 +338,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-pencil-markdown1i--2&quot;&gt;&lt;i class=&quot;fa fa-pencil&quot;&gt;&lt;/i&gt; 商品代码新输入 #2&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_3.png&quot; alt=&quot;商品代码新输入 #2&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_3.png&quot; alt=&quot;商品代码新输入 #2&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;按照使用的商品代码体系，选择商品代码项目。按照商品代码体系，标示的项目有所不同。&lt;br /&gt;
@@ -351,7 +353,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-pencil-markdown1i--3&quot;&gt;&lt;i class=&quot;fa fa-pencil&quot;&gt;&lt;/i&gt; 商品代码新输入 #3&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_4.png&quot; alt=&quot;商品代码新输入 #3&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_4.png&quot; alt=&quot;商品代码新输入 #3&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;先选择商品代码和颜色/尺码，然后输入商品的基本信息。&lt;br /&gt;
@@ -396,7 +398,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-pencil-square-o-markdown1i---1&quot;&gt;&lt;i class=&quot;fa fa-pencil-square-o&quot;&gt;&lt;/i&gt; 商品代码 修改/详细看 #1&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_5.png&quot; alt=&quot;商品代码 修改/详细看 #1&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_5.png&quot; alt=&quot;商品代码 修改/详细看 #1&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;在查询的商品目录双击要修改或详细看的行。&lt;/li&gt;
@@ -406,7 +408,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-pencil-square-o-markdown1i---2&quot;&gt;&lt;i class=&quot;fa fa-pencil-square-o&quot;&gt;&lt;/i&gt; 商品代码 修改/详细看 #2&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_6.png&quot; alt=&quot;商品代码 修改/详细看 #2&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_6.png&quot; alt=&quot;商品代码 修改/详细看 #2&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;已经注册的商品代码不能变更，只可以查询。&lt;/li&gt;
@@ -429,7 +431,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;a-nameregisterimageai-classfa-fa-pencil-markdown1i--1&quot;&gt;&lt;a name=&quot;register_image&quot;&gt;&lt;/a&gt;&lt;i class=&quot;fa fa-pencil&quot;&gt;&lt;/i&gt; 注册商品图片 #1&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_7.png&quot; alt=&quot;注册商品图片 #1&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_7.png&quot; alt=&quot;注册商品图片 #1&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;打击[引入文件]按键，就标示文件选择窗。&lt;/li&gt;
@@ -441,7 +443,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-pencil-markdown1i--2-1&quot;&gt;&lt;i class=&quot;fa fa-pencil&quot;&gt;&lt;/i&gt; 注册商品图片 #2&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_8.png&quot; alt=&quot;商品代码 修改/详细看 #2&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_8.png&quot; alt=&quot;商品代码 修改/详细看 #2&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;选的图片标示如上。&lt;/li&gt;
@@ -454,7 +456,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;a-namechangepriceai-classfa-fa-pencil-square-o-markdown1i-&quot;&gt;&lt;a name=&quot;change_price&quot;&gt;&lt;/a&gt;&lt;i class=&quot;fa fa-pencil-square-o&quot;&gt;&lt;/i&gt; 变更销售价&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_9.png&quot; alt=&quot;变更销售价&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_9.png&quot; alt=&quot;变更销售价&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;变更销售价可以在商品详细页面的下端部分的销售价变更Tap，或者打击在商品代码目录的[变更销售价]按键以后标示的销售价变更弹出窗口。
@@ -498,7 +500,7 @@
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;a-namechangepriceai-classfa-fa-pencil-square-o-markdown1i--1&quot;&gt;&lt;a name=&quot;change_price&quot;&gt;&lt;/a&gt;&lt;i class=&quot;fa fa-pencil-square-o&quot;&gt;&lt;/i&gt; 销售价变更来历&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_10.png&quot; alt=&quot;销售价变更来历&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_10.png&quot; alt=&quot;销售价变更来历&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;销售价变更来历也可以确认在橡皮那信息页面的下端部分的销售价变更来历Tap，或者打击在商品代码目录的[变更销售价]按键以后标示的销售价变更弹出窗口。
@@ -512,7 +514,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;a-namechangepriceai-classfa-fa-pencil-square-o-markdown1i---&quot;&gt;&lt;a name=&quot;change_price&quot;&gt;&lt;/a&gt;&lt;i class=&quot;fa fa-pencil-square-o&quot;&gt;&lt;/i&gt; 商品代码管理 – 变更使用与否&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_10.png&quot; alt=&quot;商品代码管理 – 变更使用与否&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_10.png&quot; alt=&quot;商品代码管理 – 变更使用与否&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;商品代码目录上勾选变更使用与否的商品。可以多重勾选多个商品。&lt;/li&gt;
@@ -523,7 +525,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;a-namechangepriceai-classfa-fa-pencil-square-o-markdown1i----1&quot;&gt;&lt;a name=&quot;change_price&quot;&gt;&lt;/a&gt;&lt;i class=&quot;fa fa-pencil-square-o&quot;&gt;&lt;/i&gt; 商品代码管理 – 变更商品退货可能与否&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_11.png&quot; alt=&quot;商品代码管理 – 变更使用与否&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_11.png&quot; alt=&quot;商品代码管理 – 变更使用与否&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;商品代码目录上勾选变更商品退货可能与否的商品。可以多重勾选多个商品。&lt;/li&gt;
@@ -534,7 +536,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;a-namechangepriceai-classfa-fa-pencil-square-o-markdown1i----2&quot;&gt;&lt;a name=&quot;change_price&quot;&gt;&lt;/a&gt;&lt;i class=&quot;fa fa-pencil-square-o&quot;&gt;&lt;/i&gt; 商品代码管理 – 选择单一商品后处理&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_12.png&quot; alt=&quot;变更销售价&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_12.png&quot; alt=&quot;变更销售价&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;1号红色箱子里的按键跟变更使用与否/变更退货与否不一样，商品代码目录上要跟3号一样先选择单一行，然后打击，那就动作。有关按键都不是可以处理多重选择商品代码的。有关按键的详细说明如下。&lt;/li&gt;
@@ -565,7 +567,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;a-namechangepriceai-classfa-fa-pencil-square-o-markdown1i----&quot;&gt;&lt;a name=&quot;change_price&quot;&gt;&lt;/a&gt;&lt;i class=&quot;fa fa-pencil-square-o&quot;&gt;&lt;/i&gt; 商品代码管理 – 条形码 注册/删除&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_13.png&quot; alt=&quot;变更销售价&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_13.png&quot; alt=&quot;变更销售价&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;先选择商品，然后打击[条形码 注册/删除]按键。&lt;/li&gt;
@@ -578,7 +580,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;a-namechangepriceai-classfa-fa-pencil-square-o-markdown1i----3&quot;&gt;&lt;a name=&quot;change_price&quot;&gt;&lt;/a&gt;&lt;i class=&quot;fa fa-pencil-square-o&quot;&gt;&lt;/i&gt; 商品代码管理 – 打印条形码&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_14.png&quot; alt=&quot;变更销售价&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_14.png&quot; alt=&quot;变更销售价&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;先选择商品，然后打击[打印条形码]按键。&lt;/li&gt;
@@ -590,7 +592,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;a-namechangepriceai-classfa-fa-pencil-square-o-markdown1i----4&quot;&gt;&lt;a name=&quot;change_price&quot;&gt;&lt;/a&gt;&lt;i class=&quot;fa fa-pencil-square-o&quot;&gt;&lt;/i&gt; 商品代码管理 – 注册订货&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_15.png&quot; alt=&quot;变更销售价&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_15.png&quot; alt=&quot;变更销售价&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;先选择商品，然后打击[注册订货]按键。&lt;/li&gt;
@@ -605,8 +607,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Fri, 17 Jun 2016 16:55:50 +0900</pubDate>
-        <link>http://xmdplus.github.io/product_code.html</link>
-        <guid isPermaLink="true">http://xmdplus.github.io/product_code.html</guid>
+        <link>http://xmdsoho.github.io/product_code.html</link>
+        <guid isPermaLink="true">http://xmdsoho.github.io/product_code.html</guid>
         
         
         <category>商品管理_zh</category>
@@ -630,14 +632,14 @@
 &lt;h3 id=&quot;a-namenodevicesearchai-classfa-fa-search-markdown1i-1-&quot;&gt;&lt;a name=&quot;nodevice_search&quot;&gt;&lt;/a&gt;&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; 1. 查询商品&lt;/h3&gt;
 
 &lt;h4 id=&quot;i-classfa-fa-search-markdown1i---&quot;&gt;&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; 商品搜索方法 – 扫描条形码&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/nodevice/pos_1.png&quot; alt=&quot;商品搜索方法 – 扫描条形码&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/nodevice/pos_1.png&quot; alt=&quot;商品搜索方法 – 扫描条形码&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;确认鼠标的光标，扫描商品的条形码。&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h4 id=&quot;i-classfa-fa-search-markdown1i----&quot;&gt;&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; 商品搜索方法 - 商品搜索弹出窗口&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/nodevice/pos_2.png&quot; alt=&quot;商品搜索方法 - 商品搜索弹出窗口&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/nodevice/pos_2.png&quot; alt=&quot;商品搜索方法 - 商品搜索弹出窗口&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;打击放大镜，加载搜索商品的弹出窗口。&lt;/li&gt;
@@ -647,7 +649,7 @@
 &lt;/ol&gt;
 
 &lt;h4 id=&quot;i-classfa-fa-search-markdown1i----1&quot;&gt;&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; 商品搜索方法 – 简便搜索&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/nodevice/pos_3.png&quot; alt=&quot;商品搜索方法 – 简便搜索&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/nodevice/pos_3.png&quot; alt=&quot;商品搜索方法 – 简便搜索&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;打击[类目]按键，选择商品种类。&lt;/li&gt;
@@ -657,7 +659,7 @@
 &lt;p&gt;&lt;em style=&quot;color: red; font-size: 18px; font-weight: bold;&quot;&gt;※ 使用简便搜索时，必要设定在管理者页面。&lt;/em&gt; (参照[商品管理 – 商品群管理]的说明书。)&lt;/p&gt;
 
 &lt;h4 id=&quot;i-classfa-fa-remove-markdown1i-&quot;&gt;&lt;i class=&quot;fa fa-remove&quot;&gt;&lt;/i&gt; 选的商品删除方法&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/nodevice/pos_4.png&quot; alt=&quot;选的商品删除方法&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/nodevice/pos_4.png&quot; alt=&quot;选的商品删除方法&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;搜索商品的过程上，删除错选的商品时使用的。
@@ -671,8 +673,8 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-credit-card-markdown1i-2-&quot;&gt;&lt;i class=&quot;fa fa-credit-card&quot;&gt;&lt;/i&gt; 2. 信用卡付款&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/nodevice/pos_5.png&quot; alt=&quot;信用卡付款&quot; /&gt;
-&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/nodevice/pos_6.png&quot; alt=&quot;信用卡付款&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/nodevice/pos_5.png&quot; alt=&quot;信用卡付款&quot; /&gt;
+&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/nodevice/pos_6.png&quot; alt=&quot;信用卡付款&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;搜索商品的状态上，打击[信用卡付款]按键。
@@ -690,8 +692,8 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-money-markdown1i-3-&quot;&gt;&lt;i class=&quot;fa fa-money&quot;&gt;&lt;/i&gt; 3. 现金付款&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/nodevice/pos_8.png&quot; alt=&quot;现金付款&quot; /&gt;
-&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/nodevice/pos_9.png&quot; alt=&quot;现金付款&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/nodevice/pos_8.png&quot; alt=&quot;现金付款&quot; /&gt;
+&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/nodevice/pos_9.png&quot; alt=&quot;现金付款&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;搜索商品的状态上，打击[现金付款]按键。
@@ -705,11 +707,11 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-plus-square-markdown1i-4-&quot;&gt;&lt;i class=&quot;fa fa-plus-square&quot;&gt;&lt;/i&gt; 4. 复合付款&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/nodevice/pos_11.png&quot; alt=&quot;复合付款&quot; /&gt;
-&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/nodevice/pos_12.png&quot; alt=&quot;复合付款&quot; /&gt;
-&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/nodevice/pos_13.png&quot; alt=&quot;复合付款&quot; /&gt;
-&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/nodevice/pos_15.png&quot; alt=&quot;复合付款&quot; /&gt;
-&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/nodevice/pos_16.png&quot; alt=&quot;复合付款&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/nodevice/pos_11.png&quot; alt=&quot;复合付款&quot; /&gt;
+&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/nodevice/pos_12.png&quot; alt=&quot;复合付款&quot; /&gt;
+&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/nodevice/pos_13.png&quot; alt=&quot;复合付款&quot; /&gt;
+&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/nodevice/pos_15.png&quot; alt=&quot;复合付款&quot; /&gt;
+&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/nodevice/pos_16.png&quot; alt=&quot;复合付款&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;搜索商品的状态上，打击[复合付款]按键。
@@ -749,14 +751,14 @@
 &lt;h3 id=&quot;a-namedevicesearchai-classfa-fa-search-markdown1i-1-&quot;&gt;&lt;a name=&quot;device_search&quot;&gt;&lt;/a&gt;&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; 1. 查询商品&lt;/h3&gt;
 
 &lt;h4 id=&quot;i-classfa-fa-search-markdown1i----2&quot;&gt;&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; 商品查询方法 – 扫描条形码&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/device/pos_1.png&quot; alt=&quot;商品查询方法 – 扫描条形码&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/device/pos_1.png&quot; alt=&quot;商品查询方法 – 扫描条形码&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;确认鼠标的光标，扫描商品的条形码。&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h4 id=&quot;i-classfa-fa-search-markdown1i----3&quot;&gt;&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; 商品查询方法 -商品搜索弹出窗口&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/device/pos_2.png&quot; alt=&quot;商品查询方法 - 商品搜索弹出窗口&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/device/pos_2.png&quot; alt=&quot;商品查询方法 - 商品搜索弹出窗口&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;打击放大镜，加载搜索商品的弹出窗口。&lt;/li&gt;
@@ -766,7 +768,7 @@
 &lt;/ol&gt;
 
 &lt;h4 id=&quot;i-classfa-fa-search-markdown1i----4&quot;&gt;&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; 商品搜索方法 – 简便搜索&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/device/pos_3.png&quot; alt=&quot;商品搜索方法 – 简便搜索&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/device/pos_3.png&quot; alt=&quot;商品搜索方法 – 简便搜索&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;打击[类目]按键，选择商品种类。&lt;/li&gt;
@@ -776,7 +778,7 @@
 &lt;p&gt;&lt;em style=&quot;color: red; font-size: 18px; font-weight: bold;&quot;&gt;※ 使用简便搜索时，必要设定在管理者页面。&lt;/em&gt; (参照[商品管理 – 商品群管理]的说明书。)&lt;/p&gt;
 
 &lt;h4 id=&quot;i-classfa-fa-remove-markdown1i--1&quot;&gt;&lt;i class=&quot;fa fa-remove&quot;&gt;&lt;/i&gt; 选的商品删除方法&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/device/pos_4.png&quot; alt=&quot;选的商品删除方法&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/device/pos_4.png&quot; alt=&quot;选的商品删除方法&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;搜索商品的过程上，删除错选的商品时使用的。
@@ -790,8 +792,8 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-credit-card-markdown1i-2--1&quot;&gt;&lt;i class=&quot;fa fa-credit-card&quot;&gt;&lt;/i&gt; 2. 信用卡付款&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/device/pos_5.png&quot; alt=&quot;信用卡付款&quot; /&gt;
-&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/device/pos_7.png&quot; alt=&quot;信用卡付款&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/device/pos_5.png&quot; alt=&quot;信用卡付款&quot; /&gt;
+&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/device/pos_7.png&quot; alt=&quot;信用卡付款&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;搜索商品的状态上，打击[信用卡付款]按键。
@@ -807,8 +809,8 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-money-markdown1i-3--1&quot;&gt;&lt;i class=&quot;fa fa-money&quot;&gt;&lt;/i&gt; 3. 现金付款&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/device/pos_8.png&quot; alt=&quot;现金付款&quot; /&gt;
-&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/device/pos_10.png&quot; alt=&quot;现金付款&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/device/pos_8.png&quot; alt=&quot;现金付款&quot; /&gt;
+&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/device/pos_10.png&quot; alt=&quot;现金付款&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;搜索商品的状态上，打击[现金付款]按键。
@@ -824,11 +826,11 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-plus-square-markdown1i-4--1&quot;&gt;&lt;i class=&quot;fa fa-plus-square&quot;&gt;&lt;/i&gt; 4. 复合付款&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/device/pos_11.png&quot; alt=&quot;复合付款&quot; /&gt;
-&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/device/pos_12.png&quot; alt=&quot;复合付款&quot; /&gt;
-&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/device/pos_14.png&quot; alt=&quot;复合付款&quot; /&gt;
-&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/device/pos_15.png&quot; alt=&quot;复合付款&quot; /&gt;
-&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/device/pos_17.png&quot; alt=&quot;复合付款&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/device/pos_11.png&quot; alt=&quot;复合付款&quot; /&gt;
+&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/device/pos_12.png&quot; alt=&quot;复合付款&quot; /&gt;
+&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/device/pos_14.png&quot; alt=&quot;复合付款&quot; /&gt;
+&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/device/pos_15.png&quot; alt=&quot;复合付款&quot; /&gt;
+&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/device/pos_17.png&quot; alt=&quot;复合付款&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;搜索商品的状态上，打击[复合付款]按键。
@@ -865,8 +867,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Fri, 17 Jun 2016 16:55:50 +0900</pubDate>
-        <link>http://xmdplus.github.io/pos_sales.html</link>
-        <guid isPermaLink="true">http://xmdplus.github.io/pos_sales.html</guid>
+        <link>http://xmdsoho.github.io/pos_sales.html</link>
+        <guid isPermaLink="true">http://xmdsoho.github.io/pos_sales.html</guid>
         
         
         <category>POS_zh</category>
@@ -883,7 +885,7 @@
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-pencil-markdown1i-&quot;&gt;&lt;i class=&quot;fa fa-pencil&quot;&gt;&lt;/i&gt; 处理输入&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/base_stock/insert.png&quot; alt=&quot;注册基础库存&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/base_stock/insert.png&quot; alt=&quot;注册基础库存&quot; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;i-classfa-fa-pencil-markdown1i--&quot;&gt;&lt;i class=&quot;fa fa-pencil&quot;&gt;&lt;/i&gt; 处理输入 (一般)&lt;/h4&gt;
 &lt;ol&gt;
@@ -917,7 +919,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-pencil-square-o-markdown1i-&quot;&gt;&lt;i class=&quot;fa fa-pencil-square-o&quot;&gt;&lt;/i&gt; 处理修改&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/base_stock/update.png&quot; alt=&quot;修改基础库存&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/base_stock/update.png&quot; alt=&quot;修改基础库存&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;选择要修改基础库存的卖场。 选择卖场，有关卖场的基础库存出现在页面上。&lt;/li&gt;
@@ -928,7 +930,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-trash-markdown1i-&quot;&gt;&lt;i class=&quot;fa fa-trash&quot;&gt;&lt;/i&gt; 处理删除&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/base_stock/delete.png&quot; alt=&quot;删除基础库存&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/base_stock/delete.png&quot; alt=&quot;删除基础库存&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;选择要删除基础库存的卖场。 选择卖场，有关卖场的基础库存出现在页面上。&lt;/li&gt;
@@ -937,8 +939,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Fri, 17 Jun 2016 11:34:14 +0900</pubDate>
-        <link>http://xmdplus.github.io/base_stock.html</link>
-        <guid isPermaLink="true">http://xmdplus.github.io/base_stock.html</guid>
+        <link>http://xmdsoho.github.io/base_stock.html</link>
+        <guid isPermaLink="true">http://xmdsoho.github.io/base_stock.html</guid>
         
         
         <category>库存管理</category>
@@ -959,7 +961,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-pencil-markdown1i-&quot;&gt;&lt;i class=&quot;fa fa-pencil&quot;&gt;&lt;/i&gt; 处理输入&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/ledger_shop/insert.png&quot; alt=&quot;注册卖场入库/退货&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/ledger_shop/insert.png&quot; alt=&quot;注册卖场入库/退货&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;选择设定仓库、入库日子、卖场及处理区分。&lt;/li&gt;
@@ -976,7 +978,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-pencil-square-o-markdown1i-&quot;&gt;&lt;i class=&quot;fa fa-pencil-square-o&quot;&gt;&lt;/i&gt; 处理修改&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/ledger_shop/update.png&quot; alt=&quot;修改卖场入库/退货&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/ledger_shop/update.png&quot; alt=&quot;修改卖场入库/退货&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;点击[查询传票号码]按键，引入要修改的传票。&lt;/li&gt;
@@ -992,7 +994,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-trash-markdown1i-&quot;&gt;&lt;i class=&quot;fa fa-trash&quot;&gt;&lt;/i&gt; 处理删除&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/ledger_shop/delete.png&quot; alt=&quot;删除卖场入库/退货&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/ledger_shop/delete.png&quot; alt=&quot;删除卖场入库/退货&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;点击[查询传票号码]按键，引入要修改的传票。&lt;/li&gt;
@@ -1002,8 +1004,8 @@
 &lt;p&gt;&lt;em style=&quot;color: red; font-size: 18px; font-weight: bold;&quot;&gt;※ 注意 : 删除构成传票单位。只要删除特定商品的话，变更数量‘0‘。&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 17 Jun 2016 10:18:28 +0900</pubDate>
-        <link>http://xmdplus.github.io/ledger_shop.html</link>
-        <guid isPermaLink="true">http://xmdplus.github.io/ledger_shop.html</guid>
+        <link>http://xmdsoho.github.io/ledger_shop.html</link>
+        <guid isPermaLink="true">http://xmdsoho.github.io/ledger_shop.html</guid>
         
         
         <category>卖场管理</category>

@@ -3,16 +3,16 @@
   <channel>
     <title>{&quot;ko&quot;=&gt;&quot;도움말&quot;, &quot;ja&quot;=&gt;&quot;ヘルプ&quot;, &quot;zh_CN&quot;=&gt;&quot;帮助&quot;}</title>
     <description>{&quot;ko&quot;=&gt;&quot;&quot;, &quot;ja&quot;=&gt;&quot;&quot;, &quot;zh_CN&quot;=&gt;&quot;&quot;}</description>
-    <link>http://xmdsoho.github.io/</link>
-    <atom:link href="http://xmdsoho.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 23 Sep 2016 15:14:44 +0900</pubDate>
-    <lastBuildDate>Fri, 23 Sep 2016 15:14:44 +0900</lastBuildDate>
+    <link>http://xmdplus.github.io/</link>
+    <atom:link href="http://xmdplus.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 23 Sep 2016 15:18:19 +0900</pubDate>
+    <lastBuildDate>Fri, 23 Sep 2016 15:18:19 +0900</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>販売保留</title>
         <description>&lt;h3 id=&quot;i-classfa-fa-hand-stop-o-markdown1i-&quot;&gt;&lt;i class=&quot;fa fa-hand-stop-o&quot;&gt;&lt;/i&gt; 販売保留&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales_suspension/pos_33.png&quot; alt=&quot;販売保留&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales_suspension/pos_33.png&quot; alt=&quot;販売保留&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;販売保留は購入する商品を臨時で保管する場合に使用します。.&lt;/li&gt;
@@ -30,15 +30,15 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-search-markdown1i-&quot;&gt;&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; 販売保留照会&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales_suspension/pos_34.png&quot; alt=&quot;販売保留照会&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales_suspension/pos_34.png&quot; alt=&quot;販売保留照会&quot; /&gt;&lt;/p&gt;
 &lt;ol&gt;
   &lt;li&gt;販売保留照会ボタンをクリックします。&lt;/li&gt;
   &lt;li&gt;販売保留リストから保留履歴をダブルクリックします。&lt;/li&gt;
 &lt;/ol&gt;
 </description>
         <pubDate>Fri, 17 Jun 2016 20:09:24 +0900</pubDate>
-        <link>http://xmdsoho.github.io/pos_sales_suspension.html</link>
-        <guid isPermaLink="true">http://xmdsoho.github.io/pos_sales_suspension.html</guid>
+        <link>http://xmdplus.github.io/pos_sales_suspension.html</link>
+        <guid isPermaLink="true">http://xmdplus.github.io/pos_sales_suspension.html</guid>
         
         
         <category>POS_ja</category>
@@ -60,8 +60,8 @@
 &lt;h2 id=&quot;a-namenotusedevicesai-classfa-fa-undo-markdown1i-&quot;&gt;&lt;a name=&quot;not_use_devices&quot;&gt;&lt;/a&gt;&lt;i class=&quot;fa fa-undo&quot;&gt;&lt;/i&gt; 機器未使用時の返金&lt;/h2&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-credit-card-markdown1i-1-&quot;&gt;&lt;i class=&quot;fa fa-credit-card&quot;&gt;&lt;/i&gt; 1. カードの返金&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/nodevice/pos_20.png&quot; alt=&quot;カードの返金&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/nodevice/pos_21.png&quot; alt=&quot;カードの返金&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/nodevice/pos_20.png&quot; alt=&quot;カードの返金&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/nodevice/pos_21.png&quot; alt=&quot;カードの返金&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;領収書照会をクリックして返品する領収書をロードします。
@@ -77,8 +77,8 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-money-markdown1i-2-&quot;&gt;&lt;i class=&quot;fa fa-money&quot;&gt;&lt;/i&gt; 2. 現金の返金&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/nodevice/pos_23.png&quot; alt=&quot;現金の返金&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/nodevice/pos_24.png&quot; alt=&quot;現金の返金&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/nodevice/pos_23.png&quot; alt=&quot;現金の返金&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/nodevice/pos_24.png&quot; alt=&quot;現金の返金&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;領収書照会をクリックして返品する領収書をロードします
@@ -94,11 +94,11 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-plus-square-markdown1i-3-&quot;&gt;&lt;i class=&quot;fa fa-plus-square&quot;&gt;&lt;/i&gt; 3. 複合決済返金&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/nodevice/pos_26.png&quot; alt=&quot;複合決済返金&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/nodevice/pos_27.png&quot; alt=&quot;複合決済返金&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/nodevice/pos_28.png&quot; alt=&quot;複合決済返金&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/nodevice/pos_30.png&quot; alt=&quot;複合決済返金&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/nodevice/pos_31.png&quot; alt=&quot;複合決済返金&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/nodevice/pos_26.png&quot; alt=&quot;複合決済返金&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/nodevice/pos_27.png&quot; alt=&quot;複合決済返金&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/nodevice/pos_28.png&quot; alt=&quot;複合決済返金&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/nodevice/pos_30.png&quot; alt=&quot;複合決済返金&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/nodevice/pos_31.png&quot; alt=&quot;複合決済返金&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;領収書照会をクリックして返品する領収書をロードします。 (#. 領収書照会方法の説明を参照)&lt;/li&gt;
@@ -123,8 +123,8 @@
 &lt;h2 id=&quot;a-nameusedevicesai-classfa-fa-undo-markdown1i-&quot;&gt;&lt;a name=&quot;use_devices&quot;&gt;&lt;/a&gt;&lt;i class=&quot;fa fa-undo&quot;&gt;&lt;/i&gt; 機器使用時の返金&lt;/h2&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-credit-card-markdown1i-1--1&quot;&gt;&lt;i class=&quot;fa fa-credit-card&quot;&gt;&lt;/i&gt; 1. カードの返金&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/device/pos_20.png&quot; alt=&quot;カードの返金&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/device/pos_22.png&quot; alt=&quot;カードの返金&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/device/pos_20.png&quot; alt=&quot;カードの返金&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/device/pos_22.png&quot; alt=&quot;カードの返金&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;領収書照会をクリックして返品する領収書をロードします。
@@ -140,8 +140,8 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-money-markdown1i-2--1&quot;&gt;&lt;i class=&quot;fa fa-money&quot;&gt;&lt;/i&gt; 2. 現金の返金&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/device/pos_23.png&quot; alt=&quot;現金の返金&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/device/pos_25.png&quot; alt=&quot;現金の返金&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/device/pos_23.png&quot; alt=&quot;現金の返金&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/device/pos_25.png&quot; alt=&quot;現金の返金&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;領収書照会をクリックして返品する領収書をロードします。
@@ -158,11 +158,11 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-plus-square-markdown1i-3--1&quot;&gt;&lt;i class=&quot;fa fa-plus-square&quot;&gt;&lt;/i&gt; 3. 複合決済返金&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/device/pos_26.png&quot; alt=&quot;複合決済返金&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/device/pos_27.png&quot; alt=&quot;複合決済返金&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/device/pos_29.png&quot; alt=&quot;複合決済返金&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/device/pos_30.png&quot; alt=&quot;複合決済返金&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_refund/device/pos_32.png&quot; alt=&quot;複合決済返金&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/device/pos_26.png&quot; alt=&quot;複合決済返金&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/device/pos_27.png&quot; alt=&quot;複合決済返金&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/device/pos_29.png&quot; alt=&quot;複合決済返金&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/device/pos_30.png&quot; alt=&quot;複合決済返金&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_refund/device/pos_32.png&quot; alt=&quot;複合決済返金&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;領収書照会をクリックして返品する領収書をロードします。
@@ -187,8 +187,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Fri, 17 Jun 2016 19:59:34 +0900</pubDate>
-        <link>http://xmdsoho.github.io/pos_refund.html</link>
-        <guid isPermaLink="true">http://xmdsoho.github.io/pos_refund.html</guid>
+        <link>http://xmdplus.github.io/pos_refund.html</link>
+        <guid isPermaLink="true">http://xmdplus.github.io/pos_refund.html</guid>
         
         
         <category>POS_ja</category>
@@ -200,7 +200,7 @@
         <description>&lt;h3 id=&quot;i-classfa-fa-search-markdown1i-&quot;&gt;&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; 領収書照会&lt;/h3&gt;
 
 &lt;h4 id=&quot;i-classfa-fa-search-markdown1i---&quot;&gt;&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; 領収書照会方法 – 領収書照会ポップアップ&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_receipt/pos_18.png&quot; alt=&quot;領収書照会方法 - 領収書照会ポップアップ&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_receipt/pos_18.png&quot; alt=&quot;領収書照会方法 - 領収書照会ポップアップ&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;領収書照会ボタンをクリックして、領収書リストポップアップをロードします。&lt;/li&gt;
@@ -209,15 +209,15 @@
 &lt;/ol&gt;
 
 &lt;h4 id=&quot;i-classfa-fa-barcode-markdown1i---&quot;&gt;&lt;i class=&quot;fa fa-barcode&quot;&gt;&lt;/i&gt; 領収書照会方法 – 領収書バーコードスキャン&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_receipt/pos_19.png&quot; alt=&quot;領収書照会方法 - 領収書バーコードスキャン&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_receipt/pos_19.png&quot; alt=&quot;領収書照会方法 - 領収書バーコードスキャン&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;領収書下部のバーコードをスキャンすると、領収書の購入履歴をすぐにロードことができます。&lt;/li&gt;
 &lt;/ol&gt;
 </description>
         <pubDate>Fri, 17 Jun 2016 19:08:26 +0900</pubDate>
-        <link>http://xmdsoho.github.io/pos_receipt.html</link>
-        <guid isPermaLink="true">http://xmdsoho.github.io/pos_receipt.html</guid>
+        <link>http://xmdplus.github.io/pos_receipt.html</link>
+        <guid isPermaLink="true">http://xmdplus.github.io/pos_receipt.html</guid>
         
         
         <category>POS_ja</category>
@@ -226,7 +226,7 @@
     
       <item>
         <title>店舗入庫/返品状況</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/ledger_shop_list/ledger_shop_list.png&quot; alt=&quot;店舗入庫/返品状況&quot; /&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/ledger_shop_list/ledger_shop_list.png&quot; alt=&quot;店舗入庫/返品状況&quot; /&gt;
 &lt;em style=&quot;color: #666; font-weight: bold; float: right;&quot;&gt;[店舗入庫/返品状況]&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -239,9 +239,9 @@
   &lt;li&gt;仕入先：特定の仕入先の商品入荷/返品履歴を確認したいときに使用します。&lt;/li&gt;
   &lt;li&gt;作業区分：入庫/返品作業ごとにデータを照会することができます。&lt;/li&gt;
   &lt;li&gt;サイズ：グリッド上のサイズ表示形式を横型または縦形で照会することができます。
-&lt;img src=&quot;http://xmdsoho.github.io/images/ledger_shop_list/ledger_shop_list_horizon.png&quot; alt=&quot;横形&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/ledger_shop_list/ledger_shop_list_horizon.png&quot; alt=&quot;横形&quot; /&gt;
 &lt;em style=&quot;color: #666; font-weight: bold; float: right;&quot;&gt;[横形]&lt;/em&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/ledger_shop_list/ledger_shop_list_vertical.png&quot; alt=&quot;縦形&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/ledger_shop_list/ledger_shop_list_vertical.png&quot; alt=&quot;縦形&quot; /&gt;
 &lt;em style=&quot;color: #666; font-weight: bold; float: right;&quot;&gt;[縦形]&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -249,9 +249,9 @@
 
 &lt;ul&gt;
   &lt;li&gt;照会区分 : 日付別合計、仕入先別合計、商品単位でデータを照会することができます。
-&lt;img src=&quot;http://xmdsoho.github.io/images/ledger_shop_list/summary_date.png&quot; alt=&quot;日付別合計&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/ledger_shop_list/summary_date.png&quot; alt=&quot;日付別合計&quot; /&gt;
 &lt;em style=&quot;color: #666; font-weight: bold; float: right;&quot;&gt;[日付別合計]&lt;/em&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/ledger_shop_list/summary_supplier.png&quot; alt=&quot;仕入先別合計&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/ledger_shop_list/summary_supplier.png&quot; alt=&quot;仕入先別合計&quot; /&gt;
 &lt;em style=&quot;color: #666; font-weight: bold; float: right;&quot;&gt;[仕入先別合計]&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -259,7 +259,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;商品検索条件 : 特定の条件に該当する商品の入庫/返品履歴を照会するときに使用します。
-&lt;img src=&quot;http://xmdsoho.github.io/images/ledger_shop_list/product_search_detail.png&quot; alt=&quot;商品検索条件&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/ledger_shop_list/product_search_detail.png&quot; alt=&quot;商品検索条件&quot; /&gt;
 &lt;em style=&quot;color: #666; font-weight: bold; float: right;&quot;&gt;[商品検索条件]&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -275,8 +275,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 17 Jun 2016 17:35:19 +0900</pubDate>
-        <link>http://xmdsoho.github.io/ledger_shop_list.html</link>
-        <guid isPermaLink="true">http://xmdsoho.github.io/ledger_shop_list.html</guid>
+        <link>http://xmdplus.github.io/ledger_shop_list.html</link>
+        <guid isPermaLink="true">http://xmdplus.github.io/ledger_shop_list.html</guid>
         
         
         <category>店舗管理</category>
@@ -286,7 +286,7 @@
       <item>
         <title>商品コード管理</title>
         <description>&lt;h3 id=&quot;i-classfa-fa-search-markdown1i-&quot;&gt;&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; 商品コード照会&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_1.png&quot; alt=&quot;商品コード照会&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_1.png&quot; alt=&quot;商品コード照会&quot; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;section&quot;&gt;1. 商品コードメニュー&lt;/h4&gt;
 &lt;ul&gt;
@@ -324,7 +324,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-pencil-markdown1i--1&quot;&gt;&lt;i class=&quot;fa fa-pencil&quot;&gt;&lt;/i&gt; 商品コード新規入力 #1&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_2.png&quot; alt=&quot;商品コード新規入力 #1&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_2.png&quot; alt=&quot;商品コード新規入力 #1&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;商品コード新規入力ボタンをクリックします。&lt;/li&gt;
@@ -334,7 +334,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-pencil-markdown1i--2&quot;&gt;&lt;i class=&quot;fa fa-pencil&quot;&gt;&lt;/i&gt; 商品コード新規入力 #2&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_3.png&quot; alt=&quot;商品コード新規入力 #2&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_3.png&quot; alt=&quot;商品コード新規入力 #2&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;使用中の商品コード体系による商品コード項目を選択します。商品コード体系によって表示される項目は、異なる場合があります。&lt;br /&gt;
@@ -349,7 +349,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-pencil-markdown1i--3&quot;&gt;&lt;i class=&quot;fa fa-pencil&quot;&gt;&lt;/i&gt; 商品コード新規入力 #3&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_4.png&quot; alt=&quot;商品コード新規入力 #3&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_4.png&quot; alt=&quot;商品コード新規入力 #3&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;商品コードを選択して、カラー/サイズを選択したら、次は商品の基本情報を入力します。&lt;br /&gt;
@@ -394,7 +394,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-pencil-square-o-markdown1i--1&quot;&gt;&lt;i class=&quot;fa fa-pencil-square-o&quot;&gt;&lt;/i&gt; 商品コードの修正/詳細を見る #1&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_5.png&quot; alt=&quot;商品コードの修正/詳細を見る #1&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_5.png&quot; alt=&quot;商品コードの修正/詳細を見る #1&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;照会された商品のリストで、修正または詳細を見る行をダブルクリックします。&lt;/li&gt;
@@ -404,7 +404,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-pencil-square-o-markdown1i--2&quot;&gt;&lt;i class=&quot;fa fa-pencil-square-o&quot;&gt;&lt;/i&gt; 品コードの修正/詳細を見る #2&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_6.png&quot; alt=&quot;品コードの修正/詳細を見る #2&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_6.png&quot; alt=&quot;品コードの修正/詳細を見る #2&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;登録された商品コードは修正することはできません。照会のみ可能です。&lt;/li&gt;
@@ -427,7 +427,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;a-nameregisterimageai-classfa-fa-pencil-markdown1i--1&quot;&gt;&lt;a name=&quot;register_image&quot;&gt;&lt;/a&gt;&lt;i class=&quot;fa fa-pencil&quot;&gt;&lt;/i&gt; 商品画像登録 #1&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_7.png&quot; alt=&quot;商品画像登録 #1&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_7.png&quot; alt=&quot;商品画像登録 #1&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;[ファイルを開く]ボタンをクリックすると、ファイル選択ウィンドウが表示されます。&lt;/li&gt;
@@ -439,7 +439,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-pencil-markdown1i--2-1&quot;&gt;&lt;i class=&quot;fa fa-pencil&quot;&gt;&lt;/i&gt; 商品画像登録 #2&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_8.png&quot; alt=&quot;商品コード修正/詳細を見る#2&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_8.png&quot; alt=&quot;商品コード修正/詳細を見る#2&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;選択された画像は、上記のように表示されます。&lt;/li&gt;
@@ -452,7 +452,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;a-namechangepriceai-classfa-fa-pencil-square-o-markdown1i-&quot;&gt;&lt;a name=&quot;change_price&quot;&gt;&lt;/a&gt;&lt;i class=&quot;fa fa-pencil-square-o&quot;&gt;&lt;/i&gt; 販売価格変更&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/product_code/product_code_9.png&quot; alt=&quot;販売価変更&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/product_code/product_code_9.png&quot; alt=&quot;販売価変更&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;販売価変更は、商品詳細ページの下部の販売の変更タブまたは商品コードリストの販売価変更]ボタンをクリックして、表示​​される販売価変更ポップアップで可能です
@@ -496,8 +496,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 17 Jun 2016 16:55:50 +0900</pubDate>
-        <link>http://xmdsoho.github.io/product_code.html</link>
-        <guid isPermaLink="true">http://xmdsoho.github.io/product_code.html</guid>
+        <link>http://xmdplus.github.io/product_code.html</link>
+        <guid isPermaLink="true">http://xmdplus.github.io/product_code.html</guid>
         
         
         <category>商品管理</category>
@@ -521,14 +521,14 @@
 &lt;h3 id=&quot;i-classfa-fa-search-markdown1i-1-&quot;&gt;&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; 1. 商品照会&lt;/h3&gt;
 
 &lt;h4 id=&quot;i-classfa-fa-search-markdown1i---&quot;&gt;&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; 商品検索方法 – バーコードスキャン&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/nodevice/pos_1.png&quot; alt=&quot;商品検索方法 – バーコードスキャン&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/nodevice/pos_1.png&quot; alt=&quot;商品検索方法 – バーコードスキャン&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;マウスカーソルを確認し、商品のバーコードをスキャンします。&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h4 id=&quot;i-classfa-fa-search-markdown1i----&quot;&gt;&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; 商品検索方法 - 商品検索ポップアップ&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/nodevice/pos_2.png&quot; alt=&quot;商品検索方法 - 商品検索ポップアップ&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/nodevice/pos_2.png&quot; alt=&quot;商品検索方法 - 商品検索ポップアップ&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;拡大鏡をクリックして商品検索ポップアップウィンドウをロードします。&lt;/li&gt;
@@ -538,7 +538,7 @@
 &lt;/ol&gt;
 
 &lt;h4 id=&quot;i-classfa-fa-search-markdown1i----1&quot;&gt;&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; 商品検索方法 – 簡単検索&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/nodevice/pos_3.png&quot; alt=&quot;商品検索方法 – 簡単検索&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/nodevice/pos_3.png&quot; alt=&quot;商品検索方法 – 簡単検索&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;カテゴリをクリックして、商品の種類を選択します。&lt;/li&gt;
@@ -548,7 +548,7 @@
 &lt;p&gt;&lt;em style=&quot;color: red; font-size: 18px; font-weight: bold;&quot;&gt;※ 簡単検索使用時、管理者ページでの設定が必要になります。&lt;/em&gt; (商品管理 - 商品グループ管理マニュアルを参照)&lt;/p&gt;
 
 &lt;h4 id=&quot;i-classfa-fa-remove-markdown1i-&quot;&gt;&lt;i class=&quot;fa fa-remove&quot;&gt;&lt;/i&gt; 選択された商品をキャンセルする方法&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/nodevice/pos_4.png&quot; alt=&quot;選択された商品をキャンセルする方法&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/nodevice/pos_4.png&quot; alt=&quot;選択された商品をキャンセルする方法&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;商品検索過程で誤って選択された商品をキャンセルするときに使用します。
@@ -562,8 +562,8 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-credit-card-markdown1i-2&quot;&gt;&lt;i class=&quot;fa fa-credit-card&quot;&gt;&lt;/i&gt; 2.カード決済&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/nodevice/pos_5.png&quot; alt=&quot;カード決済&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/nodevice/pos_6.png&quot; alt=&quot;カード決済&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/nodevice/pos_5.png&quot; alt=&quot;カード決済&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/nodevice/pos_6.png&quot; alt=&quot;カード決済&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;商品を検索した状態でカード決済ボタンをクリックします。
@@ -581,8 +581,8 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-money-markdown1i-3-&quot;&gt;&lt;i class=&quot;fa fa-money&quot;&gt;&lt;/i&gt; 3. 現金決済&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/nodevice/pos_8.png&quot; alt=&quot;現金決済&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/nodevice/pos_9.png&quot; alt=&quot;現金決済&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/nodevice/pos_8.png&quot; alt=&quot;現金決済&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/nodevice/pos_9.png&quot; alt=&quot;現金決済&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;商品を検索した状態で現金決済ボタンをクリックします。
@@ -596,11 +596,11 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-plus-square-markdown1i-4-&quot;&gt;&lt;i class=&quot;fa fa-plus-square&quot;&gt;&lt;/i&gt; 4. 複合決済&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/nodevice/pos_11.png&quot; alt=&quot;複合決済&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/nodevice/pos_12.png&quot; alt=&quot;複合決済&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/nodevice/pos_13.png&quot; alt=&quot;複合決済&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/nodevice/pos_15.png&quot; alt=&quot;複合決済&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/nodevice/pos_16.png&quot; alt=&quot;複合決済&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/nodevice/pos_11.png&quot; alt=&quot;複合決済&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/nodevice/pos_12.png&quot; alt=&quot;複合決済&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/nodevice/pos_13.png&quot; alt=&quot;複合決済&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/nodevice/pos_15.png&quot; alt=&quot;複合決済&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/nodevice/pos_16.png&quot; alt=&quot;複合決済&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;商品を検索した状態で複合決済ボタンをクリックします。
@@ -640,14 +640,14 @@
 &lt;h3 id=&quot;i-classfa-fa-search-markdown1i-1--1&quot;&gt;&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; 1. 商品照会&lt;/h3&gt;
 
 &lt;h4 id=&quot;i-classfa-fa-search-markdown1i----2&quot;&gt;&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; 商品検索方法 – バーコードスキャン&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/device/pos_1.png&quot; alt=&quot;商品検索方法 – バーコードスキャン&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/device/pos_1.png&quot; alt=&quot;商品検索方法 – バーコードスキャン&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;マウスのカーソルを確認して、商品のバーコードをスキャンします。&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h4 id=&quot;i-classfa-fa-search-markdown1i-----&quot;&gt;&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; 商品検索方法 -  商品検索ポップアップ&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/device/pos_2.png&quot; alt=&quot;商品検索方法 -  商品検索ポップアップ&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/device/pos_2.png&quot; alt=&quot;商品検索方法 -  商品検索ポップアップ&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;拡大鏡をクリックし、商品検索ポップアップウィンドウをロードします。&lt;/li&gt;
@@ -657,7 +657,7 @@
 &lt;/ol&gt;
 
 &lt;h4 id=&quot;i-classfa-fa-search-markdown1i----3&quot;&gt;&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; 商品検索方法 – 簡単検索&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/device/pos_3.png&quot; alt=&quot;商品検索方法 – 簡単検索&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/device/pos_3.png&quot; alt=&quot;商品検索方法 – 簡単検索&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;カテゴリをクリックして、商品の種類を選択します。&lt;/li&gt;
@@ -667,7 +667,7 @@
 &lt;p&gt;&lt;em style=&quot;color: red; font-size: 18px; font-weight: bold;&quot;&gt;※ 簡単検索使用時、管理ページでの設定が必要です。.&lt;/em&gt; (商品管理 - 商品グループ管理マニュアルを参照。)&lt;/p&gt;
 
 &lt;h4 id=&quot;i-classfa-fa-remove-markdown1i--1&quot;&gt;&lt;i class=&quot;fa fa-remove&quot;&gt;&lt;/i&gt; 選択された商品をキャンセルする方法&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/device/pos_4.png&quot; alt=&quot;選択された商品をキャンセルする方法&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/device/pos_4.png&quot; alt=&quot;選択された商品をキャンセルする方法&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;商品検索過程で誤って選択された商品をキャンセルするときに使用します。
@@ -681,8 +681,8 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-credit-card-markdown1i-2-&quot;&gt;&lt;i class=&quot;fa fa-credit-card&quot;&gt;&lt;/i&gt; 2. カード決済&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/device/pos_5.png&quot; alt=&quot;カード決済&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/device/pos_7.png&quot; alt=&quot;カード決済&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/device/pos_5.png&quot; alt=&quot;カード決済&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/device/pos_7.png&quot; alt=&quot;カード決済&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;商品を検索した状態でカード決済ボタンをクリックします。
@@ -698,8 +698,8 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-money-markdown1i-3--1&quot;&gt;&lt;i class=&quot;fa fa-money&quot;&gt;&lt;/i&gt; 3. 現金決済&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/device/pos_8.png&quot; alt=&quot;現金決済&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/device/pos_10.png&quot; alt=&quot;現金決済&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/device/pos_8.png&quot; alt=&quot;現金決済&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/device/pos_10.png&quot; alt=&quot;現金決済&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;商品を検索した状態で現金決済ホタンをクリックします。
@@ -715,11 +715,11 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-plus-square-markdown1i-4--1&quot;&gt;&lt;i class=&quot;fa fa-plus-square&quot;&gt;&lt;/i&gt; 4. 複合決済&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/device/pos_11.png&quot; alt=&quot;複合決済&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/device/pos_12.png&quot; alt=&quot;複合決済&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/device/pos_14.png&quot; alt=&quot;複合決済&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/device/pos_15.png&quot; alt=&quot;複合決済&quot; /&gt;
-&lt;img src=&quot;http://xmdsoho.github.io/images/pos_sales/device/pos_17.png&quot; alt=&quot;複合決済&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/device/pos_11.png&quot; alt=&quot;複合決済&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/device/pos_12.png&quot; alt=&quot;複合決済&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/device/pos_14.png&quot; alt=&quot;複合決済&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/device/pos_15.png&quot; alt=&quot;複合決済&quot; /&gt;
+&lt;img src=&quot;http://xmdplus.github.io/images/pos_sales/device/pos_17.png&quot; alt=&quot;複合決済&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;商品を検索した状態で複合決済ホタンをクリックします。
@@ -756,8 +756,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Fri, 17 Jun 2016 16:55:50 +0900</pubDate>
-        <link>http://xmdsoho.github.io/pos_sales.html</link>
-        <guid isPermaLink="true">http://xmdsoho.github.io/pos_sales.html</guid>
+        <link>http://xmdplus.github.io/pos_sales.html</link>
+        <guid isPermaLink="true">http://xmdplus.github.io/pos_sales.html</guid>
         
         
         <category>POS_ja</category>
@@ -774,7 +774,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-pencil-markdown1i-&quot;&gt;&lt;i class=&quot;fa fa-pencil&quot;&gt;&lt;/i&gt; 入力作業&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/base_stock/insert.png&quot; alt=&quot;基礎在庫登録&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/base_stock/insert.png&quot; alt=&quot;基礎在庫登録&quot; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;i-classfa-fa-pencil-markdown1i--&quot;&gt;&lt;i class=&quot;fa fa-pencil&quot;&gt;&lt;/i&gt; 入力作業 (一般)&lt;/h4&gt;
 &lt;ol&gt;
@@ -808,7 +808,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-pencil-square-o-markdown1i-&quot;&gt;&lt;i class=&quot;fa fa-pencil-square-o&quot;&gt;&lt;/i&gt; 修正作業&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/base_stock/update.png&quot; alt=&quot;基礎在庫の変更&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/base_stock/update.png&quot; alt=&quot;基礎在庫の変更&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;基礎在庫を修正したい店舗を選択します。店舗を選択すると、その店の基礎在庫が自動でインポートされます。&lt;/li&gt;
@@ -819,7 +819,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-trash-markdown1i-&quot;&gt;&lt;i class=&quot;fa fa-trash&quot;&gt;&lt;/i&gt; 削除操作&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/base_stock/delete.png&quot; alt=&quot;基礎在庫削除&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/base_stock/delete.png&quot; alt=&quot;基礎在庫削除&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;基礎在庫を削除したい店舗を選択します。店舗を選択すると、その店の基礎在庫が自動でインポートされます。&lt;/li&gt;
@@ -828,8 +828,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Fri, 17 Jun 2016 11:34:14 +0900</pubDate>
-        <link>http://xmdsoho.github.io/base_stock.html</link>
-        <guid isPermaLink="true">http://xmdsoho.github.io/base_stock.html</guid>
+        <link>http://xmdplus.github.io/base_stock.html</link>
+        <guid isPermaLink="true">http://xmdplus.github.io/base_stock.html</guid>
         
         
         <category>在庫管理</category>
@@ -850,7 +850,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-pencil-markdown1i-&quot;&gt;&lt;i class=&quot;fa fa-pencil&quot;&gt;&lt;/i&gt; 入力作業&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/ledger_shop/insert.png&quot; alt=&quot;店舗入庫/返品登録&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/ledger_shop/insert.png&quot; alt=&quot;店舗入庫/返品登録&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;倉庫設定、入庫日、作業区分を選択します。&lt;/li&gt;
@@ -867,7 +867,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-pencil-square-o-markdown1i-&quot;&gt;&lt;i class=&quot;fa fa-pencil-square-o&quot;&gt;&lt;/i&gt; 修正作業&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/ledger_shop/update.png&quot; alt=&quot;店舗入庫/返品修正&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/ledger_shop/update.png&quot; alt=&quot;店舗入庫/返品修正&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;伝票番号照会ボタンをクリックし、修正したい伝票を表示します&lt;/li&gt;
@@ -883,7 +883,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;i-classfa-fa-trash-markdown1i-&quot;&gt;&lt;i class=&quot;fa fa-trash&quot;&gt;&lt;/i&gt; 削除操作&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmdsoho.github.io/images/ledger_shop/delete.png&quot; alt=&quot;店舗入庫/返品削除&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://xmdplus.github.io/images/ledger_shop/delete.png&quot; alt=&quot;店舗入庫/返品削除&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;伝票番号照会ボタンをクリックし、削除したい伝票を表示します。&lt;/li&gt;
@@ -893,8 +893,8 @@
 &lt;p&gt;&lt;em style=&quot;color: red; font-size: 18px; font-weight: bold;&quot;&gt;※注意：削除は伝票単位で行われます。特定の商品のみを削除したい場合は、数量を0に変更してください。&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 17 Jun 2016 10:18:28 +0900</pubDate>
-        <link>http://xmdsoho.github.io/ledger_shop.html</link>
-        <guid isPermaLink="true">http://xmdsoho.github.io/ledger_shop.html</guid>
+        <link>http://xmdplus.github.io/ledger_shop.html</link>
+        <guid isPermaLink="true">http://xmdplus.github.io/ledger_shop.html</guid>
         
         
         <category>店舗管理</category>
